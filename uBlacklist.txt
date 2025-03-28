@@ -1938,3 +1938,17 @@
 @*://*.ankahaber.net/*
 *://*.golcukhaber.com.tr/*
 *://*.giresuntso.org.tr/*
+*://*.inbusiness.com.tr/*
+*://*.risalehaber.com/*
+*://*.habernida.com/*
+*://*.haksozhaber.net/*
+*://*.mirathaber.com/*
+*://*.bizimsivas.com.tr/*
+*://*.turkic.world/*
+*://*.temizspor.com/*
+*://*.venharhaber.com/*
+*://*.islam-tr.org/*
+*://*.haberplatosu.com/*
+*://*.kenankilicaslan.web.tr/*
+*://*.tevhidhaber.com/*
+*://*.futuvvetvakfi.org/*
