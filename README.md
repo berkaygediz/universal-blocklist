@@ -10,7 +10,9 @@
 - Sahte tanınırlık oluşturma (SEO) / Fake recognition creation (SEO manipulation)  
 - Rasyonel olmayan ekonomik yorumlar / Irrational economic comments  
 - Zaman kaybı içerikler / Time-wasting content  
-- SEO abuse içerikler / SEO abuse content  
+- SEO abuse içerikler / SEO abuse content
+- Zararlı ve virüslü siteler / Harmful and Virus-Infected Sites
+- Kumar / Gambling
 
 ## Installation / Kurulum  
 1. uBlacklist:  
