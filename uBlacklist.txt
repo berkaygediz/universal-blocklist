@@ -15877,3 +15877,7 @@
 *://*.musiad.org.tr/*
 *://*.ihvandernegi.org/*
 *://*.kurbankestir.com/*
+*://*.diyanet.gov.tr/*
+*://*.siteler.web.tr/*
+*://*.yetimvakfi.org.tr/*
+*://*.sincanli.com/*
