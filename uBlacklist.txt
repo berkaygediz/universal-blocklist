@@ -2122,8 +2122,6 @@
 *://*.erbaagundem.com/*
 *://*.inkilab.com.tr/*
 *://*.beyzadehaber.com/*
-*://*.wordpress.com/*
-*://*.facebook.com/*
 *://*.bafrahaberi.com/*
 *://*.birebirhaber.net/*
 *://*.muslimport.com/*
@@ -2175,7 +2173,6 @@
 *://*.irfanvakfi.org.tr/*
 *://*.diyadinnet.com/*
 *://*.naksibendi.com.tr/*
-*://*.tiktok.com/*
 *://*.10haber.net/*
 *://*.gazeteilksayfa.com/*
 *://*.polatlipostasi.com/*
@@ -2260,7 +2257,6 @@
 *://*.hizanhaber.com.tr/*
 *://*.yeniyasamgazetesi9.com/*
 *://*.avegkon.com/*
-*://*.instagram.com/*
 *://*.dbltr.com/*
 *://*.givethemlala.com/*
 *://*.theconjuringhouse.com/*
@@ -14581,7 +14577,6 @@
 *://*.sakaryada.net/*
 *://*.confluencia.org/*
 *://*.officesuppliesphoenix.com/*
-*://*.google.com/*
 *://*.5m.com.tr/*
 *://*.atlantik.com.tr/*
 *://*.amacelektrik.com/*
