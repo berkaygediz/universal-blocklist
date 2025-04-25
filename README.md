@@ -24,3 +24,14 @@
 ```bash
 https://raw.githubusercontent.com/berkaygediz/ublacklist-tr-realistic/main/uBlacklist.txt
 ```
+
+-----
+
+1. YTBlock:
+* [Chromium](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea)
+* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/yt-block/)
+2. YTBlock -> Options -> Channels -> Block any content from these channels: (name or link) -> Copy and Paste List -> Save
+
+```bash
+https://raw.githubusercontent.com/berkaygediz/ublacklist-ytblock-tr-realistic/main/ytblock-channels.txt
+```
