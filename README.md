@@ -1,4 +1,4 @@
-# **Universal Blocklist - Turkish for uBlacklist, uBlock & YTBlock**  
+# **Universal Blocklist - Turkish/Russian/Chinese for uBlacklist, uBlock & YTBlock**  
 **En gerçekçi Türkçe içerik engelleme listesi (arama sonuçları ve YouTube kanalları).**  
 **The most realistic Turkish content block list (search results and YouTube channels).**
 
