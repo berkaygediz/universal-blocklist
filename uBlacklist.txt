@@ -7815,7 +7815,6 @@
 *://*.medif.com/*
 *://*.mediplaner.com/*
 *://*.medistaryn.com/*
-*://*.medium.com/*
 *://*.medowscpa.com/*
 *://*.medusabahisgiris.com/*
 *://*.medya32.com/*
