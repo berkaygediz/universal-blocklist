@@ -22,7 +22,7 @@
 2. uBlacklist -> Options -> Import -> Import from a ... ->
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/ublacklist-tr-realistic/main/uBlacklist.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/uBlacklist.txt
 ```
 
 -----
@@ -33,5 +33,5 @@ https://raw.githubusercontent.com/berkaygediz/ublacklist-tr-realistic/main/uBlac
 2. YTBlock -> Options -> Channels -> Block any content from these channels: (name or link) -> Copy and Paste List -> Save
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/ublacklist-ytblock-tr-realistic/main/ytblock-channels.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/ytblock-channels.txt
 ```
