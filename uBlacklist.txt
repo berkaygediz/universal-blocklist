@@ -13026,8 +13026,11 @@
 *://212outlet.com/*
 *://2194-4-75156841.en.softonic.com/*
 *://21yyte.org/*
+*://22bet.co.ke/*
+*://22bet.ug/*
 *://22dakika.org/*
 *://23cityblocks.com/*
+*://25betnano.com/*
 *://27forum-bahis.com/*
 *://28subatdernegi.org.tr/*
 *://2forumiddaa.com/*
@@ -13049,11 +13052,13 @@
 *://4play.bet.br/*
 *://4rabet-india.in/*
 *://5.57.227.251/*
+*://526betcio.com/*
 *://5453bets10.com/*
 *://5star.media/*
 *://5tsrhn.site/*
 *://62.234.115.194/*
 *://633xslot.com/*
+*://641betcio.com/*
 *://6pm.co.il/*
 *://724sbobet.com/*
 *://724yerel.com/*
@@ -13064,6 +13069,8 @@
 *://7sport.net/*
 *://888sport-live-sports-betting.softonic.com.tr/*
 *://8fujitsu.com/*
+*://91xunhuan.xyz/*
+*://920betoffice.com/*
 *://996betkanyon.com/*
 *://99auto.ro/*
 *://99bitcoins.com/*
@@ -13098,6 +13105,7 @@
 *://actasatech.com/*
 *://actionwin.site/*
 *://active-bc.com/*
+*://activeshootershirt.com/*
 *://acucarenaturopathics.com/*
 *://adalar.gov.tr/*
 *://adamizdax.com/*
@@ -13109,6 +13117,9 @@
 *://adg-lab.com/*
 *://adimadim.herokuapp.com/*
 *://adimlardergisi.com/*
+*://adlabsentertainment.com/*
+*://admiralbet.me/*
+*://admiralbet.rs/*
 *://admkuzm.ru/*
 *://adonisotel.com/*
 *://adultcreative.com/*
@@ -13188,6 +13199,7 @@
 *://aktuzla.com/*
 *://al-dirassa.com/*
 *://al-mostabserin.com/*
+*://al-rashedgroup.com/*
 *://al.atlasescorts.com/*
 *://alaalam.org/*
 *://alakhharyana.com/*
@@ -13227,6 +13239,7 @@
 *://altinova.bel.tr/*
 *://altsayfa.com/*
 *://alumanole.ro/*
+*://alumni.umuslim.ac.id/*
 *://amadershomoys.com/*
 *://amanetbkg.ro/*
 *://amanetlizeanu.ro/*
@@ -13254,6 +13267,7 @@
 *://angra.rj.gov.br/*
 *://angro-afacere.cam/*
 *://animewho.com/*
+*://aniserver07.com.tr/*
 *://anjajelovsek.net/*
 *://anjalirana.com/*
 *://ankapati.org/*
@@ -13325,6 +13339,7 @@
 *://archives.msu.ac.th/*
 *://arennacircus.com.br/*
 *://arenyachting.com/*
+*://aresbetresmi.net/*
 *://argentinaopentennis.com/*
 *://arhavi.bel.tr/*
 *://ariaphysio.ca/*
@@ -13334,9 +13349,11 @@
 *://arkeolojihaber.net/*
 *://arneh.com.tr/*
 *://arquidiocesedearacaju.org/*
+*://arquivos-producao.ufopa.edu.br/*
 *://arsiv.binfikir.be/*
 *://arsiv.helalplatform.com/*
 *://arsiv.isteisparta.com/*
+*://artdek.com.tr/*
 *://artemishaber.com/*
 *://artfasad.com/*
 *://artisan-diallo.fr/*
@@ -13356,6 +13373,9 @@
 *://asinas.org/*
 *://askbonus.com/*
 *://aslanmotor.com.tr/*
+*://asproagro.org/*
+*://assomise.com/*
+*://assopirate.fr/*
 *://astoras.com.tr/*
 *://astro-charts.com/*
 *://astrobegshop.com/*
@@ -13393,6 +13413,7 @@
 *://auto-ecole-ste-cecile.fr/*
 *://autobacsbrand.com/*
 *://autodiscover.beykozescort.com.tr/*
+*://ava.icmbio.gov.br/*
 *://avant-x.com/*
 *://avapp666.com/*
 *://avare73.wordpress.com/*
@@ -13425,6 +13446,7 @@
 *://avrupayakasiatings.com/*
 *://avrupayetimeli.org.tr/*
 *://avtugbakukut.com/*
+*://avvabetgirisyap.com/*
 *://awqatsalah.com/*
 *://ay-burcu.hesaplama.net/*
 *://ay-evresi.hesaplama.net/*
@@ -13467,13 +13489,18 @@
 *://bahisanalizleri.icu/*
 *://bahisbonusarena.com/*
 *://bahisdenemebonusuveren.info/*
+*://bahisduragi.net/*
+*://bahisguven.com/*
 *://bahislen.com/*
 *://bahismafia.com/*
+*://bahispot.net/*
+*://bahissiterehber.com/*
 *://bahistrbet.com/*
 *://bahsegelmobilgiris.com/*
 *://bahsettir.com/*
 *://bajapaintball.hu/*
 *://bakercountyhealth.org/*
+*://bakikibar.com.tr/*
 *://bakirkoyescort8.com/*
 *://bakirkoyescortsitesi.com/*
 *://baklaifishball.com/*
@@ -13531,6 +13558,7 @@
 *://baysidecpr.com/*
 *://bazar-branch.cam/*
 *://bazar-modern.cam/*
+*://bbetoffice.com/*
 *://bbetpark.com/*
 *://bboshop.ro/*
 *://bbpbursa.org/*
@@ -13585,6 +13613,26 @@
 *://betbonanza.com/*
 *://betbonus.ai/*
 *://betbothsides.com/*
+*://betcio.co/*
+*://betcio.ink/*
+*://betcio.net/*
+*://betcio.website/*
+*://betcio2025.pro/*
+*://betciocasino.com/*
+*://betciocu.net/*
+*://betciocu.org/*
+*://betcioenhizligiris.com/*
+*://betciogir.net/*
+*://betciogiris.net/*
+*://betciogiris.org/*
+*://betciogiris2025.com/*
+*://betciogirisi.com/*
+*://betciogirisx.com/*
+*://betciokayit.com/*
+*://betcioo.com/*
+*://betcioo.org/*
+*://betcioslot.com/*
+*://betcioyagir.com/*
 *://betclass190.com/*
 *://betclass192.com/*
 *://betclass193.com/*
@@ -13656,10 +13704,20 @@
 *://betlantis.xyz/*
 *://betlazgirisi.com/*
 *://betlena.org/*
+*://betlist-ios.soft112.com/*
+*://betlist502.com/*
 *://betlist512.com/*
+*://betlist518.com/*
+*://betlistbonus.com/*
+*://betlistgiris.net/*
+*://betlistgirisi.com/*
+*://betlistguncel.com/*
+*://betlistkayit.com/*
+*://betlistlink.com/*
 *://betlivo.co/*
 *://betlivo.info/*
 *://betlondra.net/*
+*://betmarketingservice.com/*
 *://betmatik0662.com/*
 *://betmatik0668.com/*
 *://betmatikgiris2025.com/*
@@ -13675,12 +13733,61 @@
 *://betmoon.link/*
 *://betmoonadresi.com/*
 *://betmusgirisi.com/*
+*://betnano.co/*
+*://betnano.com/*
+*://betnano.ink/*
+*://betnano.me/*
+*://betnano.one/*
+*://betnanoadresi.com/*
+*://betnanocasinotr.top/*
+*://betnanogir.site/*
+*://betnanogiris3.com/*
+*://betnanogiris4.com/*
+*://betnanogiris5.com/*
+*://betnanogirisi.com/*
+*://betnanogirisi.net/*
+*://betnanogunceli.com/*
+*://betnanos.net/*
+*://betnanotv152.com/*
+*://betnanotv156.com/*
+*://betnanouyelik.com/*
+*://betnanoyagiris.com/*
 *://betnbetgiris.com/*
 *://betnixes.com/*
 *://beto.com/*
 *://betobserv.com/*
+*://betoffice.app/*
+*://betoffice.biz/*
+*://betoffice.com/*
+*://betoffice.ink/*
+*://betoffice.one/*
+*://betoffice.ru/*
+*://betoffice.site/*
+*://betoffice858.com/*
 *://betofficeadres.com/*
+*://betofficebet.com/*
+*://betofficee.com/*
+*://betofficee.net/*
+*://betofficegiris.com/*
+*://betofficegiris.net/*
+*://betofficegiris.site/*
+*://betofficegirisamp1.com/*
+*://betofficegirisamp2.com/*
+*://betofficegirisdestek.com/*
+*://betofficegirisdestekamp.com/*
+*://betofficegirisi.net/*
+*://betofficegirisi.site/*
+*://betofficegirisiyeni.com/*
+*://betofficegirisli.com/*
 *://betofficeguncel2025.com/*
+*://betofficeguncelgir.com/*
+*://betofficekayit.com.tr/*
+*://betofficeli.com/*
+*://betofficemobile.com/*
+*://betoffices.net/*
+*://betoffices.top/*
+*://betofficex.com/*
+*://betofficez.org/*
 *://betolur155.com/*
 *://betonred-giris2025.com/*
 *://betonred.one/*
@@ -13716,6 +13823,7 @@
 *://betpasi.com/*
 *://betpipogiris.website/*
 *://betpublicgiris.casino/*
+*://betradar.com/*
 *://betraja.net/*
 *://betroad-girisi.com/*
 *://bets10-orijinal-giris.com/*
@@ -13769,14 +13877,37 @@
 *://betsalvadorgirisi.site/*
 *://betsalvadorr.net/*
 *://betsalvadorr.org/*
+*://betsat-canli.com/*
+*://betsat.dudaone.com/*
+*://betsat.play-marker.in/*
+*://betsat.today/*
+*://betsat.website/*
+*://betsat1412.com/*
+*://betsat3003.com/*
+*://betsatan.com/*
+*://betsatdestek.com/*
+*://betsatg.com/*
+*://betsatgame.com/*
+*://betsatgir.net/*
 *://betsatgiris.online/*
 *://betsatgiris1.com/*
+*://betsatgirisadresi.com/*
+*://betsatgirisi.net/*
+*://betsatgirisi.website/*
+*://betsatguncel.info/*
 *://betsatguncelgirisi.com/*
+*://betsation.com/*
+*://betsatli.com/*
+*://betsatofficial.site/*
+*://betsatrs.com/*
+*://betsatt.com/*
+*://betsatuyelik.com/*
 *://betshezie.co.za/*
 *://betsilvatr.com/*
 *://betsiteleridenemebonus.info/*
 *://betskanyon.com/*
 *://betspider.com/*
+*://bettcio.com/*
 *://betterinbulk.net/*
 *://betterlife.cl/*
 *://betting-app.net/*
@@ -13864,6 +13995,7 @@
 *://bilgiegitim.com.tr/*
 *://bilgimedya.org/*
 *://bilgiokullari.com/*
+*://biljar.hr/*
 *://billgattonhonda.com/*
 *://billi-walker.jp/*
 *://billshop.ro/*
@@ -13901,10 +14033,12 @@
 *://blackjacksiteleri.org/*
 *://blackpantheragency.com/*
 *://blinkvisa.com/*
+*://blistaffiliates.com/*
 *://blockonomi.com/*
 *://blog.astralzen.com/*
 *://blog.bobcasino.com/*
 *://blog.bspin.io/*
+*://blog.carreiras.pucrs.br/*
 *://blog.edebiyatdefteri.com/*
 *://blog.falsepeti.com/*
 *://blog.hollywoodbets.net/*
@@ -14011,6 +14145,7 @@
 *://bucuriabravo.ro/*
 *://buffalorun.com/*
 *://build-together.org/*
+*://buildhub.ph/*
 *://bulbulzade.org.tr/*
 *://buldumz.com/*
 *://bulentayberk.wordpress.com/*
@@ -14046,6 +14181,7 @@
 *://buvette.ro/*
 *://buytramadolonline39.com/*
 *://buyukcekmeceescortbul.com/*
+*://byjo.fr/*
 *://bynescort.com/*
 *://bypass.iletisim.gov.tr/*
 *://byv.org.tr/*
@@ -14057,13 +14193,16 @@
 *://cagladeniz.com/*
 *://cagrivakfi.org.tr/*
 *://cahidesultan.com/*
+*://callbabes.be/*
 *://calvarybaptistministries.com/*
 *://camaraalpha.com/*
 *://camlidere.bel.tr/*
 *://campo-bet.com/*
 *://canakkale.bel.tr/*
 *://cancer-research.org/*
+*://candishhh.com/*
 *://cankayalar.com/*
+*://canl-bahis.top/*
 *://canli-radyo.net/*
 *://canlicasinolistesi.com/*
 *://canlikurtceradyodinle.com/*
@@ -14115,6 +14254,7 @@
 *://casinogrounds.com/*
 *://casinohandikap11.com/*
 *://casinolandia.com/*
+*://casinom8trix.com/*
 *://casinomayis.com/*
 *://casinority.com/*
 *://casinositelerim4000.xyz/*
@@ -14128,6 +14268,7 @@
 *://catalogindustry.com/*
 *://catch25.com/*
 *://catedral.org.br/*
+*://catoffice.net/*
 *://catseye0228.com/*
 *://cavitraining.com/*
 *://cbdelhi.in/*
@@ -14142,6 +14283,7 @@
 *://cekimpaylas.info/*
 *://cekmekoy.istanbulspamasaj.com/*
 *://celebdeepfakes.net/*
+*://cellexus.com/*
 *://cena-hitro.cam/*
 *://cena-najnovejsi.cam/*
 *://cenakupcijo.news/*
@@ -14180,7 +14322,9 @@
 *://cicidoktorum.com/*
 *://cidsinfusion.com/*
 *://ciet.iiitb.net/*
+*://cimsir.com/*
 *://cinderellaonbroadway.com/*
+*://ciogirlink.com/*
 *://circusarchive.net/*
 *://cisteniebazenov.eu/*
 *://citizen.andaman.gov.in/*
@@ -14194,6 +14338,7 @@
 *://clientarea.gamingrealms.com/*
 *://clinica25demayo.com.ar/*
 *://clinicadentalsanchezmartinez.es/*
+*://clinicaortega.pe/*
 *://clinicauner.es/*
 *://cloudoflight.com/*
 *://clubbadhanna.hu/*
@@ -14212,6 +14357,7 @@
 *://colmcillepipeband.com/*
 *://colornokia.com/*
 *://colorone.com.tr/*
+*://colunadofla.com/*
 *://com-appwinonewin-partnerapp.tr.uptodown.com/*
 *://combot.org/*
 *://commonedge.org/*
@@ -14264,6 +14410,7 @@
 *://cryptsy.com/*
 *://cs.money/*
 *://cs2-bets.org/*
+*://csc.am.gov.br/*
 *://cscase.com/*
 *://csgo-skins.com/*
 *://csgocases.com/*
@@ -14298,6 +14445,7 @@
 *://darulislam.com.tr/*
 *://darusselam.com/*
 *://dash.bet/*
+*://dashkesehatan.bandungkab.go.id/*
 *://datacloudproject.eu/*
 *://datalibera.ro/*
 *://dataoptin.com/*
@@ -14307,6 +14455,7 @@
 *://dclottery.com/*
 *://dcm.in/*
 *://dd.com.tr/*
+*://de-saint-roman.fr/*
 *://de.jbckj.com/*
 *://deadspin.com/*
 *://dealbargain.news/*
@@ -14370,10 +14519,12 @@
 *://denemesiteler9.com/*
 *://denemeverenler.com/*
 *://denemeverensiteler2025.com/*
+*://denimline.com/*
 *://denizli.bel.tr/*
 *://denizli24haber.com/*
 *://dentaloflithonia.com/*
 *://dentiste-dumitrascu.fr/*
+*://dentserdivan.com/*
 *://departament-bani.cam/*
 *://depenapolis.educacao.sp.gov.br/*
 *://deportesbelen.com/*
@@ -14401,6 +14552,7 @@
 *://dharmavedas.com/*
 *://diamanti.com/*
 *://dic.b-amooz.com/*
+*://dicesiteleri.com/*
 *://diclebulteni.com/*
 *://didim.kalp-escort.com/*
 *://didim.meb.gov.tr/*
@@ -14414,6 +14566,7 @@
 *://dilekcesepeti.com/*
 *://dimhans.org/*
 *://dimos-neaszixnis.gr/*
+*://dinamikgazete.com/*
 *://dinbirsen.org.tr/*
 *://dini-radyolar-islami-radyo.softonic.com.tr/*
 *://diniradyo.net/*
@@ -14440,6 +14593,7 @@
 *://dknetwork.draftkings.com/*
 *://dmisdicp.karnali.gov.np/*
 *://dnee.sefope.gov.tl/*
+*://dnmbns2.com/*
 *://docartransport.ro/*
 *://docnc.org/*
 *://documents.pub/*
@@ -14458,6 +14612,7 @@
 *://dojop.com/*
 *://dolcebaciogelato.com/*
 *://domainedelajean.fr/*
+*://donamorgt.org/*
 *://donate.islamic-relief.org.uk/*
 *://dop.rajasthan.gov.in/*
 *://dopeslimes.com/*
@@ -14470,11 +14625,13 @@
 *://dostavaskladisce.news/*
 *://dosya.co/*
 *://doubledeffect.news/*
+*://doughandco.ca/*
 *://dover.si/*
 *://downloadonlinesoftware.com/*
 *://dpro-valence.fr/*
 *://dpsjl-p.si/*
 *://dragdebebe.ro/*
+*://dragonbet.co.uk/*
 *://drakoulakis.com/*
 *://drcandacevlove.com/*
 *://dreamgirls.gr/*
@@ -14528,6 +14685,7 @@
 *://edoizakaya.ca/*
 *://edremit.bel.tr/*
 *://edukhana.com/*
+*://eeb.vstu.by/*
 *://efesbets.com/*
 *://effimax.fr/*
 *://efirbet.com/*
@@ -14541,6 +14699,7 @@
 *://egyetemesertekesites.news/*
 *://egyetemesmarka.news/*
 *://ehc.si/*
+*://ehkqd.com.tr/*
 *://ehlibeyttakvimi.com/*
 *://ehlisunnetmedya.com/*
 *://ehremann-osteopatie.ro/*
@@ -14581,8 +14740,10 @@
 *://en.oxtube.me/*
 *://en.realbetisbalompie.es/*
 *://en.telghub.com/*
+*://en.todocoleccion.net/*
 *://en.topescort.bg/*
 *://en.vidmo.pro/*
+*://enattendant-ecoledelaseigneurie.ca/*
 *://encokdenemebonusuveren.club/*
 *://encokdenemebonusverensiteler.info/*
 *://encokkazandiranbahissiteleri.com/*
@@ -14606,6 +14767,7 @@
 *://enostavnokupcijo.news/*
 *://ensonnokta.com/*
 *://ensonvaaz.com.tr/*
+*://enthusiasmritualjacket.com.tr/*
 *://entspecialtygroup.com/*
 *://enviguard.net/*
 *://environmentalpolicyalliance.org/*
@@ -14741,6 +14903,7 @@
 *://extra.bet365.com/*
 *://extrabestgiris.com/*
 *://extragundem.com/*
+*://extraucuzluk.com/*
 *://eymeneumutol.com/*
 *://ezanvaktinamazvakitleri.com/*
 *://ezherliler.org/*
@@ -14844,9 +15007,11 @@
 *://flexshop.ro/*
 *://flightsim.to/*
 *://fliptheswitch.com/*
+*://florahali.com.tr/*
 *://floraria-wild.ro/*
 *://floryaescortsitesi.com/*
 *://flowfreesolutions.com/*
+*://flp-orthophonie.fr/*
 *://flqk.site/*
 *://fluidvalve.com/*
 *://fm-haxball.co.uk/*
@@ -14904,6 +15069,7 @@
 *://freenewspos.com/*
 *://freeslotshub.com/*
 *://freespinverenler.com/*
+*://freestonepeople.be/*
 *://fresh-collection.cam/*
 *://fresh-store.cyou/*
 *://friss-keszlet.cam/*
@@ -14914,6 +15080,7 @@
 *://fukuokaglobe.com/*
 *://fukxx.com/*
 *://fularsizentellik.com/*
+*://fullbloomproject.com/*
 *://fullcase.ro/*
 *://fullfilmindir.mobi.cutestat.com/*
 *://fundacijaum.si/*
@@ -14927,6 +15094,7 @@
 *://galeri.uludagsozluk.com/*
 *://galeribostanci.com/*
 *://gallerosrobinson.com/*
+*://galob.sk/*
 *://gamblinghoroscope.com/*
 *://gamblingindustryb2b.com/*
 *://gamdom.com/*
@@ -14974,6 +15142,7 @@
 *://gcuvideo.com.tr/*
 *://gebzeescortbayan.com.tr/*
 *://geekzone.ro/*
+*://geesepeace.com/*
 *://gelagatsumsel.net/*
 *://gelecekpartisi.org.tr/*
 *://gemidos.tv/*
@@ -14989,6 +15158,7 @@
 *://gercekgazete.com/*
 *://gercekistanbulescort.com/*
 *://gergedan.press/*
+*://gestionimmobilierelg.ca/*
 *://getawaystays.ca/*
 *://gevendehand.nl/*
 *://geveze.me/*
@@ -15006,7 +15176,10 @@
 *://gimnasiolaconsolata.edu.co/*
 *://ging.si/*
 *://giresundasanat.com/*
+*://girisbetoffice.com/*
+*://girisbetofficeampadresi2.com/*
 *://girisfokusbet.com/*
+*://girisler.readthedocs.io/*
 *://girldefined.com/*
 *://girlstyle.com/*
 *://gitbetturkey.com/*
@@ -15067,6 +15240,7 @@
 *://greece.escortnews.com/*
 *://greenbankacademy.com/*
 *://greenhousecaen.fr/*
+*://greertoday.com/*
 *://gridinsoft.com/*
 *://grndpashbt-verify.vip/*
 *://groen-wonen.be/*
@@ -15085,6 +15259,7 @@
 *://gs.yandex.com.tr/*
 *://gsbfbathjwq.xyz/*
 *://gstinbuxar.com/*
+*://gttiedappally.com/*
 *://gudulescort.com/*
 *://gueumsabopp.com/*
 *://guide-bests.news/*
@@ -15098,6 +15273,10 @@
 *://guncel-betgaranti-giris.com/*
 *://gunceladresi.org/*
 *://guncelbahissiteleri.com/*
+*://guncelbetciogiris.com/*
+*://guncelbetoffice.com/*
+*://guncelbetofficeamp.com/*
+*://guncelbetofficegiris.com/*
 *://guncelcasinopromadresi.com/*
 *://gunceldenemebonusuverensite.info/*
 *://guncelsahabet2025.com/*
@@ -15243,15 +15422,19 @@
 *://holynativitychurch.com/*
 *://hookupguru.com/*
 *://hopabayan.co/*
+*://horse-results.com/*
 *://horse.bet/*
 *://horsebetting.com.au/*
 *://hot.com/*
 *://hotelfalkenseerhof.de/*
+*://hotellaiguillecreuse.fr/*
 *://hotteabombs.ca/*
 *://hotwifecaps.com/*
+*://houstonlabel.com/*
 *://howtobetroulettex.com/*
 *://hranazaduso.si/*
 *://hristiyankitaplar.com/*
+*://huapi.com.ar/*
 *://huder.org.tr/*
 *://huiwangqihuo9.com/*
 *://hukukcular.org.tr/*
@@ -15341,6 +15524,8 @@
 *://imasder.org/*
 *://imigrasidumai.com/*
 *://imoneybuzz.com/*
+*://impreza1.wpstyle.ir/*
+*://ims.ind.br/*
 *://imsec2017.org/*
 *://imsystech.com/*
 *://inattvgiris.pro/*
@@ -15388,7 +15573,9 @@
 *://invokkers.com/*
 *://iosb.org.tr/*
 *://iptali.org/*
+*://ipv4.artdek.com.tr/*
 *://ipv4.cavearts.kayserimithatpasaasm.com/*
+*://ipv4.cemremimarlik.com/*
 *://irfanmektebi.com/*
 *://irnavi.net/*
 *://irsadder.com/*
@@ -15430,6 +15617,7 @@
 *://islandfencingacademy.com/*
 *://islandviewcasino.com/*
 *://ismailhunerlice.com/*
+*://ismart.geosolutions.com.ph/*
 *://isplfiberbroadband.com/*
 *://isport.in/*
 *://istahed.org.tr/*
@@ -15586,6 +15774,7 @@
 *://jazzsurvie.fr/*
 *://jeangabinbook.com/*
 *://jetbahisgiris.casino/*
+*://jetfilmizle.io/*
 *://jetsxfactor.com/*
 *://jf-pkpm.info/*
 *://jhowemarketing.com/*
@@ -15736,6 +15925,7 @@
 *://key-drop.com/*
 *://keyamsha.com/*
 *://keydrop.com/*
+*://kgrmt.ca/*
 *://khelnow.com/*
 *://kibirlikirpi.com/*
 *://kicksgeeks.pl/*
@@ -15779,6 +15969,7 @@
 *://kofteciosman.com/*
 *://koinmedya.com/*
 *://kokludegisim.net/*
+*://kokuhaku-stage.com/*
 *://kolikostanespletnastran.si/*
 *://kolille.com/*
 *://kolkata24x7.in/*
@@ -15803,6 +15994,7 @@
 *://kosovapress.com/*
 *://koto.org.tr/*
 *://kotteekaffee.com/*
+*://koycegizbric.org/*
 *://kpop-profiles.jouwweb.nl/*
 *://kragdag.co.za/*
 *://krlife.co.kr/*
@@ -15855,6 +16047,7 @@
 *://ladys.one/*
 *://lafabriquedelily.fr/*
 *://lagogegym.fr/*
+*://lakersbrasil.com/*
 *://lamosbet218.com/*
 *://land-of-sweet-bonanza-ios.soft112.com/*
 *://landmarkexhibit.org/*
@@ -15871,6 +16064,7 @@
 *://laserhkt.com/*
 *://lastwordonsports.com/*
 *://latestmodapks.com/*
+*://latoiturepro.fr/*
 *://latribale.fr/*
 *://lattitudecanada.org/*
 *://lau-byg.dk/*
@@ -15881,11 +16075,13 @@
 *://lavenue-pizza-au-feu-de-bois.fr/*
 *://lavibrationdessens.fr/*
 *://lavistara.wpcomstaging.com/*
+*://lazerplovdiv.com/*
 *://lcb.org/*
 *://lchaber.com/*
 *://ldtax.gov.bd/*
 *://legacycafe.org/*
 *://legadowhite.com.ar/*
+*://legalbet.com.br/*
 *://legalmetrology.cg.nic.in/*
 *://legendsofdota.com/*
 *://lekashmirport-saintlaurentduvar.fr/*
@@ -15895,10 +16091,13 @@
 *://levade.dk/*
 *://leventescort.xyz/*
 *://leventescorto.com/*
+*://libraligas.com.br/*
 *://liderbalikesir.com/*
 *://liemachines.org/*
+*://lifechristianacademy.ca/*
 *://ligafutbolsanluis.com/*
 *://lightingmode.com/*
+*://lightrein.ca/*
 *://limanbetadresi.com/*
 *://liminalgames.com/*
 *://limited-view.news/*
@@ -15918,6 +16117,7 @@
 *://livecasinofinder.com/*
 *://liveskateboardmedia.com/*
 *://livetobloom.com/*
+*://livraria.ufsc.br/*
 *://lmdc.co.in/*
 *://localsexapp.com/*
 *://log.gen.tr/*
@@ -15941,12 +16141,14 @@
 *://louiscohenrecycling.com/*
 *://loursblancdumarais.com/*
 *://lp.triomed.com.br/*
+*://lpe-energie.fr/*
 *://lpyc.site/*
 *://lses-lb.org/*
 *://lsg-land-owner.land.gov.bd/*
 *://luck-grand.news/*
 *://lucky-jet-crash.com/*
 *://lucky-win-casino.tr.uptodown.com/*
+*://luckycasino.com/*
 *://lugatim.com/*
 *://luleburgaz.bel.tr/*
 *://lumado.ro/*
@@ -15966,7 +16168,9 @@
 *://m-holiganbet1093.com/*
 *://m.419redwin.com/*
 *://m.abdullahserenli.com/*
+*://m.betcio534.com/*
 *://m.betking.com/*
+*://m.betoffice907.com/*
 *://m.betpark.bet.br/*
 *://m.duzcetv.com/*
 *://m.fafa2ubong.com/*
@@ -16037,6 +16241,7 @@
 *://mannathaveli.com/*
 *://mansetfethiye.com/*
 *://mantenteverde.com/*
+*://maraba.pa.gov.br/*
 *://marasekonomi.com/*
 *://mardahbeatz.com/*
 *://mardin.sagliksen.org.tr/*
@@ -16089,6 +16294,7 @@
 *://mavibett.com/*
 *://mavicenaze.com/*
 *://mawaqit.net/*
+*://maxbet.me/*
 *://maxes.co.kr/*
 *://maxiforall.news/*
 *://mayalashes.si/*
@@ -16112,6 +16318,7 @@
 *://medyagiresun.com/*
 *://medyatakip.com.tr/*
 *://medyaveislamofobisempozyumu.com/*
+*://megacontabilidade.com/*
 *://megadarknet4.com/*
 *://megapari.com/*
 *://megaparigirisi.com/*
@@ -16121,10 +16328,12 @@
 *://mehmetpamak.com/*
 *://mekamic.com/*
 *://mektepligazete.com/*
+*://mektesenerji.com.tr/*
 *://melbetapk.com/*
 *://melbets.bet/*
 *://meleialacemiyeti.org.tr/*
 *://melioraplaya.com/*
+*://melissaandcompany.ca/*
 *://melomind.com/*
 *://meloritm.ro/*
 *://melysid.com/*
@@ -16203,18 +16412,22 @@
 *://mimio.com.tr/*
 *://minberiaksa.org/*
 *://minberiaksadergisi.com/*
+*://minhabahia.com.br/*
 *://minhacdergisi.com/*
 *://miracdernegi.org/*
 *://mircte.org/*
+*://mirstrun.ru/*
 *://miseojeuplus.espacejeux.com/*
 *://misericordiadealbergaria.pt/*
 *://misszahoria.sk/*
 *://mittayi.org/*
+*://mittekarakoy.com.tr/*
 *://miujizabyleyla.com/*
 *://mixxawards-tr.org/*
 *://mjijackson.com/*
 *://mks-trappes-chicken.fr/*
 *://mmajunkie.usatoday.com/*
+*://mngmice.com/*
 *://mniletisim.com.tr/*
 *://mob.specials-wishes.news/*
 *://mobetting.com/*
@@ -16278,6 +16491,7 @@
 *://mostbet-sri-lanka.com/*
 *://mostbet-srilanka-lk.com/*
 *://mostbet-sverige.com/*
+*://mostbet-tr-hkchgsd4cbepfufk.westeurope-01.azurewebsites.net/*
 *://mostbet-turkiye-giris.com/*
 *://mostbet-uz-2025.com/*
 *://mostbet-uz-login.com/*
@@ -16302,6 +16516,7 @@
 *://mostbetuzte.com/*
 *://motivacionymas.com/*
 *://moto-import.com/*
+*://mountcarmelschool.edu.in/*
 *://movingstillness.com.au/*
 *://mp4-to-3gp-converter.en.softonic.com/*
 *://mpforest.gov.in/*
@@ -16333,6 +16548,7 @@
 *://muhammedmustafader.wordpress.com/*
 *://muhammedzuhdu.org/*
 *://muhendistan.com/*
+*://muhtesembetsat.com/*
 *://munijlo.gob.pe/*
 *://munzurpress.com/*
 *://muratli.bel.tr/*
@@ -16401,6 +16617,7 @@
 *://nebevihayatdergisi.com/*
 *://needcharity.org/*
 *://neikid.si/*
+*://nena1.ch/*
 *://neoyouthsports.org/*
 *://nereli.org/*
 *://nesharem.co.il/*
@@ -16426,6 +16643,7 @@
 *://newskarnataka.com/*
 *://newslotgames.net/*
 *://next.io/*
+*://nextbahis.com/*
 *://nextdoor.com/*
 *://nextstepstrategies.org/*
 *://neyine590.com/*
@@ -16454,6 +16672,7 @@
 *://nitrobahisegir.com/*
 *://nizamihayat.com/*
 *://nj.bet/*
+*://njabusiness.com/*
 *://nkku.ru/*
 *://nkog.pracowniametaluidrewna.pl/*
 *://nmblackhistorymonth.com/*
@@ -16481,6 +16700,7 @@
 *://nszw.site/*
 *://nudogram.com/*
 *://numbers-agency-brief.ru/*
+*://numovie.xyz/*
 *://nurullahmisiroglu.com/*
 *://nurvakfi.org/*
 *://nusabugeac.ro/*
@@ -16533,6 +16753,7 @@
 *://on.pointsbet.ca/*
 *://on5yirmi5.com/*
 *://onbahisegiris.com/*
+*://oncyazilim.com/*
 *://ondaaragonesa.info/*
 *://onder.org.tr/*
 *://onderalkan.com/*
@@ -16559,6 +16780,7 @@
 *://onlyboutique.news/*
 *://onlyruns.com/*
 *://onmyoji.si/*
+*://oobetnano.com/*
 *://open-school.kz/*
 *://openskill.info/*
 *://opiummotelvca.com/*
@@ -16598,6 +16820,7 @@
 *://osztaly-bazar.news/*
 *://otagtv.net/*
 *://otbrajkot.com/*
+*://oterprem.com.br/*
 *://otkritie-capital.com/*
 *://ottomanuluslararasi.org/*
 *://ottvoucher.com/*
@@ -16636,11 +16859,13 @@
 *://palms.org/*
 *://paloaltohardware.com/*
 *://pamukovasosyalmedya.com/*
+*://panacomp.net/*
 *://pangea-show.de/*
 *://panorama-news.de/*
 *://pantagraph.com/*
 *://papashisha.si/*
 *://papersdirect.co.uk/*
+*://papillonadahotel.com/*
 *://papim.net/*
 *://paradise-moto.com/*
 *://paralikumar.net/*
@@ -16671,10 +16896,12 @@
 *://paylasimdeposu.com/*
 *://paypal.onlinecasino-24.net/*
 *://pazarpyrz.xyz/*
+*://pazaryerientegrasyonu.com/*
 *://pbkennelclub.com/*
 *://pcbguitarmania.com/*
 *://pckamunya.co.ke/*
 *://pdfkitap.gen.tr/*
+*://pdi.ufopa.edu.br/*
 *://pdrkongreleri.org/*
 *://peachy-promising.nl/*
 *://pearl-orchids.com/*
@@ -16720,6 +16947,7 @@
 *://pizzazazzamarseille.fr/*
 *://pizzerija-aleksandro.si/*
 *://pk-termeptuj.si/*
+*://placar.com.br/*
 *://plan-mp.rajasthan.gov.in/*
 *://planeasevilla.com/*
 *://planete-fcnantes.com/*
@@ -16739,7 +16967,9 @@
 *://plisio.net/*
 *://ploiestibuzz.ro/*
 *://plus-mart.news/*
+*://pluseducenter.com/*
 *://plusle.store/*
+*://pmbet.co.tz/*
 *://pnat.cnat-gabon.com/*
 *://pocenipodruznica.news/*
 *://poddtoppen.se/*
@@ -16786,7 +17016,9 @@
 *://prachurja.com/*
 *://pragatiserene.com/*
 *://prakerjanusantara.com/*
+*://prasadpolytechnicjaunpur.in/*
 *://prathamonline.com/*
+*://praticbrindes.tecnologia.ws/*
 *://prconesti.ro/*
 *://predictz.ng/*
 *://predmetov-trgovina.cam/*
@@ -16899,6 +17131,7 @@
 *://ramancenter.org/*
 *://ramenbet.com/*
 *://ramonportilla.es/*
+*://raspoutinevilleneuve-sous-dammartin.fr/*
 *://rayhaber.com/*
 *://raysoh.org/*
 *://rayyawellness.com/*
@@ -16934,11 +17167,14 @@
 *://rendasemodaintima.com.br/*
 *://rendeles-kiskereskedelem.news/*
 *://rendelesvilag.today/*
+*://renovagraf.com.br/*
+*://rentabag.com.br/*
 *://rentmen.eu/*
 *://reputationauthority.tv/*
 *://rerererarara.net/*
 *://resedinta-bunicilor.ro/*
 *://reshavakfi.org/*
+*://resmibetofficee.com/*
 *://respectdrumandbass.com/*
 *://restaurantcarol.ro/*
 *://restaurantemembibre.com/*
@@ -16947,6 +17183,8 @@
 *://results.andhrauniversity.edu.in/*
 *://retina-gm.com/*
 *://reumatologiestoicasimona.ro/*
+*://revista.ibict.br/*
+*://revistaforum.com.br/*
 *://revistamistica.ro/*
 *://revitalhcare.com/*
 *://revpanda.com/*
@@ -16995,6 +17233,7 @@
 *://rokabarbeque.ro/*
 *://roketbet-girin.com/*
 *://roketbetuyelik.com/*
+*://rokubet-giris-tr.com/*
 *://romanenkouchit.ru/*
 *://romanigodi.org/*
 *://romanopralipe.si/*
@@ -17028,15 +17267,18 @@
 *://runefuse.com/*
 *://ruseskortsitesi.com/*
 *://russellstreetreport.com/*
+*://russian.milo-interior-design.com/*
 *://rutube.ru/*
 *://ruya.ihya.org/*
 *://ruyaa.cc/*
 *://ruyabett.com/*
 *://ruyam.org/*
+*://ruyameali.com/*
 *://ruyatabirleri.vip/*
 *://ruyayorumunuz.com/*
 *://rvoutlawz.com/*
 *://s2osb.org.tr/*
+*://sa.au.edu/*
 *://saabye-pedersen.org/*
 *://saadet.org.tr/*
 *://saba-rs.com.br/*
@@ -17062,6 +17304,7 @@
 *://sahabetyenigirisi.com/*
 *://sahbt-verify.vip/*
 *://sahihhadisler.com/*
+*://sahinguvenlik.tr/*
 *://sahipkiran.org/*
 *://sahsenem.com/*
 *://sakaryahaberleri.com/*
@@ -17105,6 +17348,7 @@
 *://sartlari.com/*
 *://saruhanbeyvakfi.org/*
 *://satibi.org.tr/*
+*://saudideltagroup.com/*
 *://savagetavern806.com/*
 *://sayginhuzurevi.com/*
 *://saysad.org/*
@@ -17126,6 +17370,7 @@
 *://scores24.live/*
 *://sdandcompany.ca/*
 *://sdlccorp.com/*
+*://sdms.mc.edu.ph/*
 *://searenityholidayaccommodation.com.au/*
 *://sebilyayinevi.com/*
 *://sebinkarahisar.bel.tr/*
@@ -17167,6 +17412,7 @@
 *://seriftemplates.com/*
 *://serikmutluson.antalyadamasaj.xyz/*
 *://serkansuren.com.tr/*
+*://serokan.com/*
 *://servicepst.ro/*
 *://services.andhrauniversity.edu.in/*
 *://servicetor.ro/*
@@ -17193,6 +17439,7 @@
 *://share-your-closet.ro/*
 *://sharedluxuries.cam/*
 *://shatter.ro/*
+*://shesheru.com/*
 *://shido.ro/*
 *://shin.or.kr/*
 *://shippingcollection.news/*
@@ -17211,6 +17458,7 @@
 *://shopstop.news/*
 *://showen4cars.com/*
 *://showroom-fresh.cam/*
+*://showroomerd.com/*
 *://shpublicschool.com/*
 *://si-ja.si/*
 *://siayeo.com.sg/*
@@ -17268,6 +17516,7 @@
 *://skitour2020.com/*
 *://skladisce-globalno.news/*
 *://skladisce-trgovina.cam/*
+*://skrgamebar.com/*
 *://sksforum.org/*
 *://skybox.xyz/*
 *://skyonlineid.com/*
@@ -17289,6 +17538,7 @@
 *://slotsoo.com/*
 *://slotsrank-tr.com/*
 *://slotsspot.com/*
+*://slovakfutball.com/*
 *://slovenijazlokalci.si/*
 *://slowcosustainable.com/*
 *://smaaliefeyeumutol.com/*
@@ -17319,6 +17569,7 @@
 *://solucioneswebtech.com/*
 *://somayenihaber.com/*
 *://somuthaber.com/*
+*://sonakishowerheads.com/*
 *://sonduzluk.com/*
 *://sonfishing.ca/*
 *://songelisme.com/*
@@ -17326,8 +17577,10 @@
 *://sonilux.ba/*
 *://sonpeygambercocuk.info/*
 *://sonsuzbilgi.com.tr/*
+*://sophienapen.com/*
 *://sorulist.com/*
 *://sorumatik.co/*
+*://sorunsuzgiris.org/*
 *://sosyalbilimler.info/*
 *://sosyalistfeministkolektif.org/*
 *://sosyalsorumluluk.bandirma.edu.tr/*
@@ -17344,6 +17597,7 @@
 *://spende.e-ditib.org/*
 *://splayer.dev/*
 *://spokanetribecasino.com/*
+*://spoor9.com/*
 *://spordeneme2025.com/*
 *://sportclub-isd.com/*
 *://sports-betting.online/*
@@ -17366,6 +17620,7 @@
 *://st.bitalih.com/*
 *://staging.entrepreneur.nyu.edu/*
 *://stake.com/*
+*://stakebettr.com/*
 *://stan-maszyny.pl/*
 *://standardkibris.com/*
 *://starasokolova.com/*
@@ -17440,6 +17695,7 @@
 *://svetu-sveze.cam/*
 *://sveze-vrh.cyou/*
 *://svicbowling.si/*
+*://svpontosemsa.castelo.es.gov.br/*
 *://sweet-bonanza-2025.games/*
 *://sweet-bonanza-factory-creator.en.softonic.com/*
 *://sweet-bonanza-giris.org/*
@@ -17452,6 +17708,7 @@
 *://sweetbonanzaking.mystrikingly.com/*
 *://sweetbonanzalive.net/*
 *://sweetbonanzaoynaa.org/*
+*://sweetbonanzax.com/*
 *://sweetfieldmanor.com/*
 *://synia.fr/*
 *://szabist.edu.pk/*
@@ -17490,6 +17747,7 @@
 *://taskestiasm.com/*
 *://taskshift.com/*
 *://tasova.gen.tr/*
+*://tatame.com.br/*
 *://tatneftmerch.ru/*
 *://tatvansesi.com.tr/*
 *://tavapy.gov.py/*
@@ -17512,6 +17770,7 @@
 *://tecnit.com.ec/*
 *://tecseguranca.net/*
 *://tectaw.com/*
+*://tekamach.com/*
 *://tekderistanbul.org/*
 *://teknokenar.com/*
 *://teknolojiserdar.com/*
@@ -17581,6 +17840,7 @@
 *://thebrightideaspartnership.co.uk/*
 *://thecasinoroyal.net/*
 *://thecasinowizard.com/*
+*://thecharles.co.za/*
 *://thedigestonline.com/*
 *://theeagleswire.usatoday.com/*
 *://theenterpriseworld.com/*
@@ -17590,6 +17850,7 @@
 *://thegamehaus.com/*
 *://thegearlocker.net/*
 *://thegrotto.org/*
+*://thehillbillygypsies.com/*
 *://thehockeywriters.com/*
 *://thehypebr.com/*
 *://thekaopus.com/*
@@ -17611,6 +17872,7 @@
 *://thetravelport.com.ng/*
 *://thewrightcontemporary.com/*
 *://thisis369.com/*
+*://thorntonscycle.ca/*
 *://threadreaderapp.com/*
 *://tiarajuestudio.com/*
 *://tiermaker.com/*
@@ -17666,6 +17928,7 @@
 *://todaysaga.com/*
 *://todaysnorthumberland.ca/*
 *://todkongre2022.org/*
+*://tofikhidayat.com.tr/*
 *://tolgatemel.com/*
 *://tolqunnews.com/*
 *://tombrake.co.uk/*
@@ -17742,6 +18005,7 @@
 *://traininggrounds.com.au/*
 *://trainingwithalohamaui.com/*
 *://trampalogistics.com/*
+*://transcriciuma.com.br/*
 *://transparencia.westfalia.rs.gov.br/*
 *://transparenciatapera.al.gov.br/*
 *://trattoriatrestevere.com/*
@@ -17766,12 +18030,14 @@
 *://trgu-trgovina.cam/*
 *://trguzacetek.news/*
 *://tribuna.com/*
+*://trivela.com.br/*
 *://trjojobet-guncel.org/*
 *://trkudus.org/*
 *://trove.nla.gov.au/*
 *://troyakademi.com/*
 *://trtipobet-adresin.com/*
 *://trustdice.win/*
+*://truvanakliye.com.tr/*
 *://trwin486.com/*
 *://tryst.link/*
 *://trystlink.app/*
@@ -17795,6 +18061,7 @@
 *://tum1haber.com/*
 *://tumed.org.tr/*
 *://tupilakgaming.com/*
+*://tur-k.com.tr/*
 *://turak.org/*
 *://turgev.org/*
 *://turismoribadesella.com/*
@@ -17887,6 +18154,7 @@
 *://uniondesmeds.com/*
 *://unionsoccerschools.com/*
 *://united-grand-paris.com/*
+*://unitiva.ac.mz/*
 *://units-expo.news/*
 *://unitsstore.news/*
 *://universal-depozit.cam/*
@@ -17956,13 +18224,16 @@
 *://vehbitulek.com/*
 *://velev.news/*
 *://vendinvenue.com/*
+*://venombetgiris.com/*
 *://vent-clima.ro/*
 *://verabetgirisi.site/*
 *://veradernegi.org/*
 *://verde.dk/*
 *://vertexseeker59.info/*
 *://verygoodbadugly.com/*
+*://vetcenterofsomerset.com/*
 *://vezirizmir.xyz/*
+*://vhip.com.br/*
 *://viceescorts.com/*
 *://victordelarbol.com/*
 *://vidavision.cl/*
@@ -18012,10 +18283,13 @@
 *://wadewilsonart.com/*
 *://wageringterms.com/*
 *://washingtoncitypaper.com/*
+*://water.muet.edu.pk/*
 *://waysidedrive.com/*
 *://wcd.rajasthan.gov.in/*
 *://wearonoffers.news/*
+*://web-tr.me.restaurant-partners.com/*
 *://web.istx.edu.ec/*
+*://webdispo.com/*
 *://webdramaturkey.org/*
 *://webmasterforum.net.tr/*
 *://webmostbet-uz.com/*
@@ -18122,6 +18396,7 @@
 *://www.abdulkadirturan.com/*
 *://www.abdullahbaba.com/*
 *://www.abdullahserenli.com/*
+*://www.abmedicalortopedia.it/*
 *://www.abonehaber.com/*
 *://www.aboutslots.com/*
 *://www.abprojeyonetimi.com/*
@@ -18149,6 +18424,7 @@
 *://www.adanayerelhaber.com/*
 *://www.adda247.com/*
 *://www.adef.org.tr/*
+*://www.adesyaotomotiv.com/*
 *://www.adgully.com/*
 *://www.adidasisupra.ro/*
 *://www.adilcevazmedia.com/*
@@ -18158,11 +18434,16 @@
 *://www.adiyamancihanhaber.com.tr/*
 *://www.adiyamangundemi.com/*
 *://www.admiral.hr/*
+*://www.adrestakip.cam/*
+*://www.adrestakip.icu/*
+*://www.adrestakip.top/*
+*://www.adrestakip.xyz/*
 *://www.adult-templates.com/*
 *://www.advanced-nanomaterials-conference.com/*
 *://www.advicemy.com/*
 *://www.aepode.org/*
 *://www.afcaweekly.com/*
+*://www.affpaying.com/*
 *://www.afintl.com/*
 *://www.afsinhabermerkezi.com/*
 *://www.afyonarena.com/*
@@ -18260,10 +18541,12 @@
 *://www.allgsmservice.ro/*
 *://www.allperfectnames.com/*
 *://www.allstars-dance.com/*
+*://www.allthingsnano.net/*
 *://www.almaany.com/*
 *://www.almanyaninsesi.com/*
 *://www.alora.com.tr/*
 *://www.alperenkorucu.com/*
+*://www.alpesport.com/*
 *://www.alpro-menges.si/*
 *://www.altensan.com.tr/*
 *://www.altinolukpastanesi.com.tr/*
@@ -18278,6 +18561,7 @@
 *://www.amordeflor.com.br/*
 *://www.amplusaude.com/*
 *://www.amsterdamredlightdistricttour.com/*
+*://www.anacav.net/*
 *://www.anadolubulusmalari.org/*
 *://www.anadoluescortbayans.com/*
 *://www.anadoluescorts.com/*
@@ -18407,6 +18691,7 @@
 *://www.audiovisionstudio.com/*
 *://www.auditeam.pl/*
 *://www.aura-escort.de/*
+*://www.auroplus.com/*
 *://www.avaide.com/*
 *://www.avast.com/*
 *://www.avcilarbayan7.com/*
@@ -18450,9 +18735,12 @@
 *://www.bahattinyildiz.com/*
 *://www.bahcelievlerescortbayan.net/*
 *://www.bahisbonusual.com/*
+*://www.bahisdegisenadresler.com/*
 *://www.bahisimo.com/*
 *://www.bahislideri14.com/*
+*://www.bahispower.com/*
 *://www.bahissiteleri2022.com/*
+*://www.bahissosyal.com/*
 *://www.bajarhaber.com/*
 *://www.bakirkoyfal.com/*
 *://www.bakishaber.com/*
@@ -18491,6 +18779,7 @@
 *://www.batmanolaygazetesi.com/*
 *://www.batmansonsoz.net/*
 *://www.batmantarafsiz.com/*
+*://www.batserviceyards.com/*
 *://www.bayanim.org/*
 *://www.bayanur.com/*
 *://www.bayburt.gov.tr/*
@@ -18546,6 +18835,9 @@
 *://www.betchipgiris.com/*
 *://www.betchipkayit.com/*
 *://www.betchiptikla.com/*
+*://www.betcio-giris.org/*
+*://www.betciotr.com/*
+*://www.betcity.nl/*
 *://www.betcup.cam/*
 *://www.betdistrict.com/*
 *://www.betellicanlibahis.com/*
@@ -18566,12 +18858,20 @@
 *://www.betkanyonyenigir.com/*
 *://www.betking.com/*
 *://www.betkolikgiris1.com/*
+*://www.betlist516.com/*
 *://www.betlive.com/*
 *://www.betmgm.co.uk/*
 *://www.betmgm.com/*
 *://www.betnow.eu/*
+*://www.betoffice-giris.com/*
+*://www.betoffice.mobi/*
+*://www.betoffice794.com/*
+*://www.betoffice855.com/*
+*://www.betoffice907.com/*
+*://www.betofficee.com/*
 *://www.betonline.ag/*
 *://www.betopin.com/*
+*://www.betossportsbetclub.com/*
 *://www.betpack.com/*
 *://www.betpark.co/*
 *://www.betpark1005.com/*
@@ -18711,6 +19011,7 @@
 *://www.bleachernation.com/*
 *://www.blenheimgang.com/*
 *://www.blindbeggarpub.com/*
+*://www.blindstare.net/*
 *://www.blogszene.com/*
 *://www.bloomingroseco.com/*
 *://www.blueheart.co.il/*
@@ -18718,7 +19019,9 @@
 *://www.bluestacks.com/*
 *://www.bmbets.com/*
 *://www.bms.org.tr/*
+*://www.bnews.com.br/*
 *://www.bodrumguncelhaber.com/*
+*://www.bodursan.com.tr/*
 *://www.body-slim.ro/*
 *://www.bogaziciguvenlik.com/*
 *://www.bolelli.org/*
@@ -18843,6 +19146,7 @@
 *://www.canlaramama.com/*
 *://www.canli-radyo-dinle.com/*
 *://www.canlicasino.mobi/*
+*://www.canlicasinosirketleri.com/*
 *://www.canlikumar1.net/*
 *://www.canlikumar2.net/*
 *://www.canliradyodinle.biz/*
@@ -18861,6 +19165,7 @@
 *://www.casino-focus.com/*
 *://www.casino-king.com/*
 *://www.casino.org/*
+*://www.casinobonusesnow.com/*
 *://www.casinohawks.com/*
 *://www.casinokolay.com/*
 *://www.casinolevant727.com/*
@@ -18875,6 +19180,7 @@
 *://www.casinovale699.com/*
 *://www.casinovale700.com/*
 *://www.casinovale702.com/*
+*://www.castleotttis.com/*
 *://www.casumo.com/*
 *://www.cautainfirmiera.ro/*
 *://www.caverncitybraces.com.tempdomain.com/*
@@ -18886,6 +19192,7 @@
 *://www.cekmekoyhaber.com.tr/*
 *://www.cemiyettaksi.com/*
 *://www.cemregazetesi.com/*
+*://www.cemremimarlik.com/*
 *://www.cemvakfi.org/*
 *://www.cenanvakfi.org/*
 *://www.cenk.com.tr/*
@@ -18899,7 +19206,9 @@
 *://www.cernavoda-turistica.ro/*
 *://www.cesos.org/*
 *://www.cestra.si/*
+*://www.cetalojistik.com.tr/*
 *://www.cfescort.com/*
+*://www.cgl.am.gov.br/*
 *://www.championbets.com.au/*
 *://www.chamshouse.com/*
 *://www.charleswalker.org/*
@@ -18938,6 +19247,7 @@
 *://www.cmsmty.com/*
 *://www.cnss.gov.lb/*
 *://www.cocostudio.ro/*
+*://www.cocotteroma.it/*
 *://www.cocukergenkongre.com/*
 *://www.cocukyogunbakim.org/*
 *://www.cofetariaanastate.ro/*
@@ -18950,6 +19260,7 @@
 *://www.concursurilecangurul.ro/*
 *://www.confortbebe.ro/*
 *://www.conhersa.com/*
+*://www.consejosdetufarmaceutico.com/*
 *://www.consult-saga.com/*
 *://www.copenhagenbiennale.org/*
 *://www.copinholegal.com.br/*
@@ -18967,6 +19278,7 @@
 *://www.corumwebtv.com/*
 *://www.cosmoplex.com.tr/*
 *://www.cosmoyasam.com/*
+*://www.cosybay.be/*
 *://www.country.si/*
 *://www.covers.com/*
 *://www.crakerspizza.com/*
@@ -18986,6 +19298,7 @@
 *://www.crust-usa.com/*
 *://www.cryptolists.com/*
 *://www.cryptowinrate.com/*
+*://www.csc.am.gov.br/*
 *://www.csgokasa.com/*
 *://www.csr-in-action.com/*
 *://www.css-weaver.com/*
@@ -19005,6 +19318,7 @@
 *://www.cyanescort.com/*
 *://www.cybd-jcas.com/*
 *://www.cyberiad.net/*
+*://www.cyprussportingclubs.com/*
 *://www.dadosfuera.com/*
 *://www.dafabet.com/*
 *://www.dafato.com/*
@@ -19037,6 +19351,7 @@
 *://www.dehakitabevi.com/*
 *://www.dekarthavuz.com/*
 *://www.dekosandemir.com/*
+*://www.delfisigorta.com/*
 *://www.deltatransilvaniei.ro/*
 *://www.demirci-bld.gov.tr/*
 *://www.demlisozler.com/*
@@ -19252,6 +19567,7 @@
 *://www.eokul-meb.com/*
 *://www.epikbahis298.com/*
 *://www.epistemelinks.com/*
+*://www.epromerp.com/*
 *://www.epsinteriorindustries.com/*
 *://www.erajans.com.tr/*
 *://www.ercebelecoglu.com.tr/*
@@ -19346,6 +19662,7 @@
 *://www.eurogirlsescort.com/*
 *://www.euronadesign.sk/*
 *://www.europeanbusinessreview.com/*
+*://www.eurospintos.lt/*
 *://www.eurovizyon.co.uk/*
 *://www.euturkhaber.com/*
 *://www.evarestaurant.com/*
@@ -19363,8 +19680,10 @@
 *://www.exoticaddis.com/*
 *://www.exotickenya.com/*
 *://www.exoticuganda.com/*
+*://www.exporoyalhotel.com/*
 *://www.expressfrigo.com.tr/*
 *://www.expressroofingllc.com/*
+*://www.extraucuzluk.com/*
 *://www.eyupsultan.bel.tr/*
 *://www.ezeiza.gob.ar/*
 *://www.ezwingame.com/*
@@ -19441,6 +19760,7 @@
 *://www.floristeriaalba.com/*
 *://www.flvetbehavior.com/*
 *://www.fm-haxball.co.uk/*
+*://www.foksveteriner.com.tr/*
 *://www.forex.com/*
 *://www.forexfactory.com/*
 *://www.forsane-alizza.com/*
@@ -19467,6 +19787,7 @@
 *://www.fundacioagi.org/*
 *://www.fundatiacasamea.ro/*
 *://www.fundomundo.com/*
+*://www.funerariapp.cl/*
 *://www.furkanhareketi.com/*
 *://www.futbol24.com/*
 *://www.futourismcongress.com/*
@@ -19487,6 +19808,7 @@
 *://www.gamblingzone.com/*
 *://www.gamechampions.com/*
 *://www.gameloop.com/*
+*://www.gamesbras.com/*
 *://www.gamestore.hr/*
 *://www.gaminator.com/*
 *://www.gaming.net/*
@@ -19595,6 +19917,7 @@
 *://www.gourmetconnection.dk/*
 *://www.gov.br/*
 *://www.gpano.com/*
+*://www.gpstar.or.kr/*
 *://www.gradinitazanazorilor.ro/*
 *://www.grainconference.org/*
 *://www.grandpashabet2132.com/*
@@ -19662,6 +19985,7 @@
 *://www.gruppelighting.com/*
 *://www.grupsirketleri.com/*
 *://www.gscimbom.com.tr/*
+*://www.guanambi.ba.gov.br/*
 *://www.guitarshopsantacruz.com/*
 *://www.gulserende.net/*
 *://www.guluc.bel.tr/*
@@ -19677,7 +20001,9 @@
 *://www.guncel-egitim.org/*
 *://www.guncel53.com/*
 *://www.guncelgazete.com/*
+*://www.guncelgirisadresi.net/*
 *://www.guncelhaberler.net/*
+*://www.guncelkadin.com.tr/*
 *://www.guncelvaaz.com/*
 *://www.guncelvaazlar.com/*
 *://www.gundem03.com/*
@@ -19695,7 +20021,9 @@
 *://www.guraba.com.tr/*
 *://www.gurselgurbuz.com/*
 *://www.guru99.com/*
+*://www.guvenilirbahisadres1.com/*
 *://www.guvenilirgiris3.com/*
+*://www.guvenilirmidir.com/*
 *://www.guvenlibahissirketleri1.com/*
 *://www.guvenlicalisma.org/*
 *://www.guvenrulman.com.tr/*
@@ -19806,6 +20134,7 @@
 *://www.hazirkod.com/*
 *://www.hazro.gov.tr/*
 *://www.hdbp.org/*
+*://www.hdsitalia.org/*
 *://www.hdtube.porn/*
 *://www.healthcopharmacy.com/*
 *://www.healthworldnews.net/*
@@ -19904,7 +20233,9 @@
 *://www.icerikhaber.com/*
 *://www.icindeescort.com/*
 *://www.icm-int.com/*
+*://www.icmbio.gov.br/*
 *://www.icnrc2020.com/*
+*://www.ics.com.ph/*
 *://www.iddaaci.org/*
 *://www.iddaatahmin11.com/*
 *://www.iddaatahminleri24.com/*
@@ -19955,6 +20286,7 @@
 *://www.ilknokta.com/*
 *://www.ilksecvakfi.org/*
 *://www.ilmiyevakfi.org.tr/*
+*://www.ilpperai.gov.my/*
 *://www.ilveusa.com/*
 *://www.image-refresh.com/*
 *://www.immersioncaraibe.com/*
@@ -20114,6 +20446,7 @@
 *://www.jahantajhiz.com/*
 *://www.janusmezat.com/*
 *://www.japan-escort.net/*
+*://www.jaquelknight.com/*
 *://www.javatan.com/*
 *://www.jba.gr/*
 *://www.jec.qa/*
@@ -20122,6 +20455,7 @@
 *://www.jeetescorts.com/*
 *://www.jenlynnclay.com/*
 *://www.jenniferbrielle.net/*
+*://www.jepozdemir.com/*
 *://www.jigo.xyz/*
 *://www.jili-slot666.com/*
 *://www.johnnybet.com/*
@@ -20132,6 +20466,7 @@
 *://www.jojobet1018.com/*
 *://www.jojobet1020.com/*
 *://www.jojobetaktif.com/*
+*://www.jomodixvr.com/*
 *://www.joshuaweissman.com/*
 *://www.joycrabboilingseafoodbar.com/*
 *://www.jrzy.com/*
@@ -20147,6 +20482,7 @@
 *://www.k2-taekwondo.si/*
 *://www.kaaninokulu.com/*
 *://www.kaatvp.be/*
+*://www.kacakbahis.tv/*
 *://www.kacgun2017.com/*
 *://www.kacyasinda.com.tr/*
 *://www.kadikoyescortum.com/*
@@ -20287,12 +20623,14 @@
 *://www.kkradovljica.si/*
 *://www.klh-trade.si/*
 *://www.klipartz.com/*
+*://www.klipstekstil.com/*
 *://www.klub-kls.si/*
 *://www.klub-trmastih.si/*
 *://www.klubsasa.si/*
 *://www.km29.net/*
 *://www.knoxbox.com/*
 *://www.kobelr.com/*
+*://www.kocabas.av.tr/*
 *://www.kocaelilife.com/*
 *://www.kocaelimasajspa.com/*
 *://www.kocaelimedikal.com/*
@@ -20311,6 +20649,7 @@
 *://www.konoplano.com/*
 *://www.konya.bel.tr/*
 *://www.konyaaktuel.com.tr/*
+*://www.konyabaskenthospital.com/*
 *://www.konyadakihurdaci.com/*
 *://www.konyahaberci.com/*
 *://www.konyajo.com/*
@@ -20331,7 +20670,9 @@
 *://www.kozmikanafor.com/*
 *://www.kpc-svetijurij.si/*
 *://www.kraftbaby.com/*
+*://www.kriptobahisler.com/*
 *://www.kristindemirci.com/*
+*://www.kristiyamaguchi.com/*
 *://www.kroger.com/*
 *://www.kscelje.si/*
 *://www.kto.bet.br/*
@@ -20398,6 +20739,7 @@
 *://www.lficanton.com/*
 *://www.li-ce.si/*
 *://www.linc.si/*
+*://www.lindisfarne.nsw.edu.au/*
 *://www.lindseyscountrystore.com/*
 *://www.lineups.com/*
 *://www.litrossanat.com/*
@@ -20535,6 +20877,7 @@
 *://www.medyaland.com/*
 *://www.medyaplatformu.org.tr/*
 *://www.medyasakarya.com/*
+*://www.megacontabilidade.com/*
 *://www.mehmedzahidkotkutekkesi.com/*
 *://www.mehmetcik.org.tr/*
 *://www.mehmetgormez.com/*
@@ -20585,6 +20928,7 @@
 *://www.mevlana-castrop-rauxel.de/*
 *://www.mevlanapidepizza.com/*
 *://www.mevsimlerkitap.com.tr/*
+*://www.mgmadeiras.com.br/*
 *://www.miamidolphinscheerleaders.net/*
 *://www.micaze.com/*
 *://www.mickeyandmooch.com/*
@@ -20718,6 +21062,7 @@
 *://www.nehir.net/*
 *://www.neonostalgia.com/*
 *://www.neslihanatmaca.com/*
+*://www.netbet.co.uk/*
 *://www.netbilenhaber.com/*
 *://www.nevsehir.gov.tr/*
 *://www.nevzattarhan.com.tr/*
@@ -20730,6 +21075,7 @@
 *://www.newsfindy.com/*
 *://www.newsweek.com/*
 *://www.nextoto.com/*
+*://www.nhe-aero.fr/*
 *://www.nhl.com/*
 *://www.niceescorts.com/*
 *://www.nigde.bel.tr/*
@@ -20741,6 +21087,7 @@
 *://www.ninjadivision.com/*
 *://www.nisparotomotiv.com/*
 *://www.nissanseijin.com.br/*
+*://www.nitokitap.com/*
 *://www.nizampide.com/*
 *://www.nj.com/*
 *://www.nlf.si/*
@@ -20872,6 +21219,7 @@
 *://www.oyunlarskor.com/*
 *://www.ozaltuntel.com/*
 *://www.ozanyayincilik.com/*
+*://www.ozdumanetkasap.com/*
 *://www.ozedonus.net/*
 *://www.ozgidais.org.tr/*
 *://www.ozgunkocaeli.com.tr/*
@@ -20892,6 +21240,7 @@
 *://www.palscity.com/*
 *://www.pamperedpawsfdl.com/*
 *://www.pandesiaworld.com/*
+*://www.papasgroovyicecream.com/*
 *://www.paraborsa.net/*
 *://www.parisarasha.com/*
 *://www.parkerpen.si/*
@@ -20954,6 +21303,7 @@
 *://www.pixelmodularuk.com/*
 *://www.pizzakusadasi.com/*
 *://www.pizzasmejo.sk/*
+*://www.planetvapeshop.com/*
 *://www.planoescorts.com/*
 *://www.platesmart.com/*
 *://www.platinhaber.com/*
@@ -20964,6 +21314,7 @@
 *://www.playcasino.com/*
 *://www.playdesertdiamond.com/*
 *://www.playfair2008.org/*
+*://www.playgorillagames.com/*
 *://www.playnow.com/*
 *://www.playojo.com/*
 *://www.playusa.com/*
@@ -21019,6 +21370,7 @@
 *://www.primebahis200.com/*
 *://www.primepornlist.com/*
 *://www.primerafutboles.com/*
+*://www.princesscasino.ro/*
 *://www.printdekor.si/*
 *://www.pritrehlipah.si/*
 *://www.privebet659.com/*
@@ -21155,6 +21507,7 @@
 *://www.ruhikizi.com/*
 *://www.ruhunaelfatiha.com/*
 *://www.rumelisiad.org.tr/*
+*://www.rushbet.co/*
 *://www.ruyadeha.com/*
 *://www.ruyatabirleri.blog/*
 *://www.ruyatabirleri.com/*
@@ -21193,6 +21546,7 @@
 *://www.salihkitaplar.com/*
 *://www.salihli.gov.tr/*
 *://www.salpazari61.com/*
+*://www.sambafoot.com/*
 *://www.samhoustonbsa.org/*
 *://www.samimihaber.com.tr/*
 *://www.samsunanaliz.com/*
@@ -21224,6 +21578,7 @@
 *://www.savethesaker.com/*
 *://www.savur.bel.tr/*
 *://www.sazeli.org/*
+*://www.sazka.cz/*
 *://www.schoolofemotions.com.tr/*
 *://www.scribd.com/*
 *://www.sdgreens31.si/*
@@ -21260,6 +21615,8 @@
 *://www.sendikabulteni.com/*
 *://www.seniorchef.co.nz/*
 *://www.seniorsregion.fr/*
+*://www.sentinel.com.tr/*
+*://www.sepd.df.gov.br/*
 *://www.serhatnarenciye.com/*
 *://www.serhatnews.com/*
 *://www.serhedhaber.com/*
@@ -21288,6 +21645,7 @@
 *://www.shopincandescent.ca/*
 *://www.shoplegacy.com/*
 *://www.si.com/*
+*://www.siberstar.com/*
 *://www.siderainvipx.com/*
 *://www.siev.org.tr/*
 *://www.sifairahmet.org/*
@@ -21296,6 +21654,7 @@
 *://www.sikisegel.com/*
 *://www.siliskum.com.tr/*
 *://www.silive.com/*
+*://www.simet.com.tr/*
 *://www.simgedergi.com/*
 *://www.simsoft.com.tr/*
 *://www.sinavonline.net/*
@@ -21340,6 +21699,7 @@
 *://www.sma.org.tr/*
 *://www.smacocuklari.org/*
 *://www.smartlocator.si/*
+*://www.smev.in/*
 *://www.smithfieldtimes.com/*
 *://www.sobider.net/*
 *://www.sobotlar.com/*
@@ -21349,6 +21709,7 @@
 *://www.sochic.com/*
 *://www.socinvestigation.com/*
 *://www.soennah-dokter.nl/*
+*://www.sofiahotel.co.il/*
 *://www.softonic.com.tr/*
 *://www.softportal.com/*
 *://www.softswiss.com/*
@@ -21372,6 +21733,7 @@
 *://www.sonpeygambercocuk.info/*
 *://www.sorgun.bel.tr/*
 *://www.sorgunmedya.com/*
+*://www.sorhocam.com/*
 *://www.soriashop.com/*
 *://www.soroptimist-celje.si/*
 *://www.sortiraparis.com/*
@@ -21421,6 +21783,7 @@
 *://www.stade-plabennecois.com/*
 *://www.stakegains.com/*
 *://www.star-telegram.com/*
+*://www.starbet.rs/*
 *://www.starkibris.net/*
 *://www.starnewsonline.com/*
 *://www.startribune.com/*
@@ -21563,6 +21926,7 @@
 *://www.thegamblest.com/*
 *://www.thegardencloche.com/*
 *://www.thehansindia.com/*
+*://www.theheavywp.com/*
 *://www.thehottubco.com/*
 *://www.thelines.com/*
 *://www.theory-talks.org/*
@@ -21583,6 +21947,7 @@
 *://www.threestarclub.com/*
 *://www.thsweb.org/*
 *://www.thunderclass.eu/*
+*://www.tiagolapizza.com/*
 *://www.tibbiyebulteni.com/*
 *://www.ticarihayat.com/*
 *://www.ticasino.com/*
@@ -21639,6 +22004,7 @@
 *://www.trajnost.si/*
 *://www.transfermarkt.com/*
 *://www.transport-g-r-a-t-u-i-t.ro/*
+*://www.trbetsatmobile.com/*
 *://www.trboje.si/*
 *://www.trendus.com/*
 *://www.trensurb.gov.br/*
@@ -21716,6 +22082,8 @@
 *://www.uaim.edu.mx/*
 *://www.uefs.br/*
 *://www.uenamad.elayayincilik.com/*
+*://www.uerj.br/*
+*://www.ufopa.edu.br/*
 *://www.ufpe.br/*
 *://www.uguryapimetal.com/*
 *://www.ulastirmamemursen.org.tr/*
@@ -21736,6 +22104,7 @@
 *://www.umutkoprusu.org/*
 *://www.unh.edu.pe/*
 *://www.unibet.com.au/*
+*://www.unicornmarket.com.tr/*
 *://www.uniindia.com/*
 *://www.uniindia.net/*
 *://www.unipersen.org.tr/*
@@ -21745,6 +22114,7 @@
 *://www.unutulmayansozler.com/*
 *://www.unyegundemhaber.com/*
 *://www.unyevizyon.com/*
+*://www.uol.com.br/*
 *://www.uplifers.com/*
 *://www.urbanbrush.net/*
 *://www.urejen-grob.si/*
@@ -21771,6 +22141,7 @@
 *://www.uyanisgencligi.com/*
 *://www.uyuyang.com/*
 *://www.uzletder.com/*
+*://www.uzmanelektriktasarim.com/*
 *://www.vacuumgames.com/*
 *://www.vakfikebirhaber.com.tr/*
 *://www.vakitci.com/*
@@ -21785,6 +22156,7 @@
 *://www.vatandasgazetesi.com.tr/*
 *://www.vatanilmehizmetvakfi.org/*
 *://www.vaybee.de/*
+*://www.vbet.fr/*
 *://www.vecertours.si/*
 *://www.vecteezy.com/*
 *://www.vefa.istanbul/*
@@ -21914,6 +22286,7 @@
 *://www.yerelgazete.com.tr/*
 *://www.yerelgozcu.com.tr/*
 *://www.yerlidusunce.com/*
+*://www.yerlikaya.av.tr/*
 *://www.yesilbanazgazetesi.net/*
 *://www.yesilpinargazetesi.com/*
 *://www.yesilsivasligazetesi.com/*
@@ -21921,6 +22294,8 @@
 *://www.yetimlervakfi.org.tr/*
 *://www.yigitgida.com.tr/*
 *://www.yinshiescorts.com/*
+*://www.yivatechnology.com/*
+*://www.yogonet.com/*
 *://www.yomra.bel.tr/*
 *://www.yomrahaberleri.com/*
 *://www.yorumcu.com/*
@@ -21939,6 +22314,7 @@
 *://www.zagras.si/*
 *://www.zazistudio.com/*
 *://www.zemenbet.com/*
+*://www.zemincollection.com/*
 *://www.zemzemvakfi.org/*
 *://www.zerparola.com/*
 *://www.zezab.com/*
@@ -21969,6 +22345,7 @@
 *://xn------7cdipbb8bscgdghdcgklk1bf3vxb.xn--p1ai/*
 *://xn----itbbktdpin6i2af.xn--p1ai/*
 *://xn--b1agjh2a.xn--p1ai/*
+*://xn--betco541-f2a.com/*
 *://xn--c1adblabhgetlbembsljp9b5a8i.xn--p1ai/*
 *://xn--casbom858-74a.com/*
 *://xn--d1aafbic.xn--p1ai/*
@@ -22019,10 +22396,12 @@
 *://yearly-wishes.news/*
 *://yedihilal.org/*
 *://yelkenoyuncak.com.tr/*
+*://yellana.co/*
 *://yellow.com/*
 *://yemenddd.org/*
 *://yenchingchinese.com/*
 *://yeni-deneme-bonusu-2025-guncel.com/*
+*://yeniampyonlendirmesi2.com/*
 *://yeniankaraescort.org/*
 *://yenibati.com/*
 *://yenibonusverensiteler2025.info/*
@@ -22043,6 +22422,7 @@
 *://yesplay.bet/*
 *://yetev.org.tr/*
 *://yildirimmutluson.bursadamasaj.xyz/*
+*://yildizdizayn.com.tr/*
 *://yinedergi.com/*
 *://yogaposesasana.com/*
 *://yol-is.org.tr/*
@@ -22099,12 +22479,14 @@
 *://zeo.org/*
 *://zephyrnet.com/*
 *://zepo.in/*
+*://zerkalo-casino-x.xyz/*
 *://zeynebiye.com/*
 *://zhou-vejle.dk/*
 *://ziobetgiris.org/*
 *://zionstpe.com/*
 *://ziyafetocakbasi.com/*
 *://zmoklaphoto.com/*
+*://zonadeazar.com/*
 *://zorbasmedia.com/*
 *://zuijiahanfu.com/*
 *://zumrailim.com/*
