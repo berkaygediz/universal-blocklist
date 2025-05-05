@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/
 
 ---
 
-### 🧱 **3. Aktroll Blocker (For Ekşi Sözlük)**
+### 🧱 **3. Troll Blocker (For Ekşi Sözlük)**
 
 Block known troll accounts from Ekşi Sözlük using the following list:
 
