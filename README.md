@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/
 
 -----
 
-1. Aktroll Blocker (for EksiSözlük):
+1. Aktroll Blocker (for Ekşi Sözlük):
 
 ```bash
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/eksisozluk-aktroll-blocker-list.txt
