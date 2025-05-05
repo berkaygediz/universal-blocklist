@@ -1398,6 +1398,7 @@
 *://*.ahlqbp.com/*
 *://*.ahlul-sunnah.de/*
 *://*.ahmedhasimi.de/*
+*://*.ahmetdonmez.net/*
 *://*.ahmetyesevi.org.tr/*
 *://*.ahmetyildizhan.net/*
 *://*.ahmjlbw.cn/*
@@ -15090,6 +15091,7 @@
 *://furkantv.org/*
 *://g-lh.org/*
 *://gaiadergi.com/*
+*://galandachy.pl/*
 *://galatahidrolik.com/*
 *://galeri.uludagsozluk.com/*
 *://galeribostanci.com/*
@@ -17488,6 +17490,7 @@
 *://sinpefpb.org.br/*
 *://sinprogoias.org.br/*
 *://sirinevlereskort.net/*
+*://sirinnar.net/*
 *://siriusdrone.com.tr/*
 *://sirnak-bayan.safirescort.com/*
 *://sirnak.masajroyal.com/*
