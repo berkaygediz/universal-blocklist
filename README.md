@@ -14,6 +14,7 @@
 - **Zararlı ve virüslü siteler / Harmful and Virus-Infected Sites**  
 - **Kumar / Gambling**  
 - **Algoritma kandırma ve AI içerik / Algorithm abuse and AI Content (YouTube)**  
+- **Ekşi Sözlük trol hesaplar / Troll accounts on Ekşi Sözlük**
 
 ## Installation / Kurulum
 1. uBlacklist:
@@ -34,4 +35,12 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/
 
 ```bash
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/ytblock-channels.txt
+```
+
+-----
+
+1. Aktroll Blocker (for EksiSözlük):
+
+```bash
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/eksisozluk-aktroll-blocker-list.txt
 ```
