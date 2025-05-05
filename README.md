@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/
 Block known troll accounts from Ekşi Sözlük using the following list:
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/eksisozluk-aktroll-blocker-list.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/eksisozluk-troll-blocker-list.txt
 ```
 
 ## 🛡️ **Disclaimer**
