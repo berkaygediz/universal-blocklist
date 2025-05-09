@@ -18,7 +18,7 @@ Bu engelleme listesi aşağıdaki içerik türlerini hedefler:
 * 🤖 **Algorithm-gaming and AI-generated spam (esp. on YouTube)** – *Algoritma kandırma ve yapay zeka içerik istismarı (özellikle YouTube’da)*
 * 💣 **Malicious and virus-infected websites** – *Zararlı ve virüs bulaşmış siteler*
 * 🎰 **Gambling and betting sites** – *Kumar ve bahis siteleri*
-* 🧵 **Troll accounts on Ekşi Sözlük spreading misinformation** – *Ekşi Sözlük’te dezenformasyon yayan trol hesaplar*
+* 🧵 **Troll accounts and terrorism affiliates spreading misinformation on Ekşi Sözlük** – Ekşi Sözlük'te dezenformasyon yayan trol hesaplar ve terörizmle bağlantılı kişiler
 
 ## ⚙️ **Installation Guide**
 
