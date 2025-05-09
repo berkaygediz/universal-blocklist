@@ -23430,3 +23430,4 @@
 /yurtgazetesi\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /zanka\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /zimbagazetesi\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+@*://paynkolay.com.tr/*
