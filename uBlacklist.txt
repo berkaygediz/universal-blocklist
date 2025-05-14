@@ -13418,6 +13418,7 @@
 *://artdek.com.tr/*
 *://artemishaber.com/*
 *://artfasad.com/*
+*://arti5tv.com/*
 *://artisan-diallo.fr/*
 *://artist.ba/*
 *://artukluhaber.net/*
@@ -14113,6 +14114,7 @@
 *://bircasinogiris.net/*
 *://birdunyabilgi.org/*
 *://birfilmindir.com/*
+*://birikimdergisi.com/*
 *://birincisaglikgrubu.com/*
 *://birmagazin.com/*
 *://birregurrafestival.com/*
@@ -15716,6 +15718,7 @@
 *://huiwangqihuo9.com/*
 *://hukukcular.org.tr/*
 *://humpaki.com/*
+*://hurgun.com/*
 *://hus.org.tr/*
 *://huse-tesaturi.ro/*
 *://hutchscarwashes.com/*
@@ -18443,6 +18446,7 @@
 *://tolgatemel.com/*
 *://tolqunnews.com/*
 *://tombrake.co.uk/*
+*://tonimarc.es/*
 *://tonyaninsozu.net/*
 *://tonybat-france.fr/*
 *://toopla.com/*
@@ -18531,6 +18535,7 @@
 *://trattoriatrestevere.com/*
 *://travelwithkarla.com/*
 *://travisdmathews.com/*
+*://trbagimsizhaber.com/*
 *://trbet-uyelik.com/*
 *://trbetlink.com/*
 *://trc.gov.tw/*
@@ -19031,6 +19036,7 @@
 *://www.ajansdogu.com/*
 *://www.ajansexpres.com.tr/*
 *://www.ajansmalatya.com/*
+*://www.ajansmanisa.com/*
 *://www.ajansyedisekiz.com/*
 *://www.akabe.com/*
 *://www.akademija-dobre-voznje.si/*
@@ -19279,6 +19285,7 @@
 *://www.avtokocjancic.si/*
 *://www.awilkinsductcleaning.com/*
 *://www.axime.co/*
+*://www.ayakustuhaber.com/*
 *://www.ayancikgazetesi.com/*
 *://www.ayandon.com.tr/*
 *://www.aybasti.bel.tr/*
@@ -20563,6 +20570,7 @@
 *://www.gelisenbeyin.net/*
 *://www.gemlikgundemgazetesi.com/*
 *://www.gemlikkorfezgazetesi.net/*
+*://www.gencbilim.com/*
 *://www.genccivrilgazetesi.com/*
 *://www.genckaraman.com/*
 *://www.genelsaglikis.org.tr/*
@@ -20721,6 +20729,7 @@
 *://www.gundem03.com/*
 *://www.gundem32.com/*
 *://www.gundemalanya.com/*
+*://www.gundematlas.com/*
 *://www.gundembilecik.com/*
 *://www.gundemcesme.com/*
 *://www.gundogmusgazetesi.com/*
@@ -22409,6 +22418,7 @@
 *://www.saturdaydownsouth.com/*
 *://www.saut.ac.tz/*
 *://www.savethesaker.com/*
+*://www.savtekdergi.com.tr/*
 *://www.savur.bel.tr/*
 *://www.sazeli.org/*
 *://www.sazka.cz/*
