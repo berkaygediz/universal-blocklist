@@ -8013,6 +8013,7 @@
 *://*.minikkalpler.org.tr/*
 *://*.miniseminaires.com/*
 *://*.mintcx.com/*
+*://*.minted.com.tr/*
 *://*.mintindianfood.com/*
 *://*.mirathaber.com/*
 *://*.miraxess.com/*
@@ -13059,6 +13060,7 @@
 *://20bet.tv/*
 *://212outlet.com/*
 *://2194-4-75156841.en.softonic.com/*
+*://21milyon.com/*
 *://21yyte.org/*
 *://22bet.co.ke/*
 *://22bet.com/*
@@ -13213,6 +13215,7 @@
 *://aidasbistro.ca/*
 *://aileakademisi.org/*
 *://aimojo.io/*
+*://aimyy.com/*
 *://aipet.kz/*
 *://aisextingchatbots.com/*
 *://ajanlat-butik.cam/*
@@ -14138,6 +14141,7 @@
 *://bisd.rs/*
 *://bit.ly/*
 *://bitchesgirls.com/*
+*://bitcichain.com/*
 *://bitcoincasinokings.com/*
 *://bitcoinchaser.com/*
 *://bitcoinist.com/*
@@ -15228,6 +15232,7 @@
 *://fetishes.cam/*
 *://fetvameclisi.com/*
 *://fevemont.sk/*
+*://fexobit.com/*
 *://feyder.org/*
 *://feyyaz.org/*
 *://fgulen.com/*
@@ -16693,6 +16698,7 @@
 *://marketplace-new.today/*
 *://marketplace.wisecp.com/*
 *://markfed.cg.nic.in/*
+*://marktilbury.com/*
 *://marmarasps.com.tr/*
 *://marmarisesco.com/*
 *://marmunozcoach.com/*
@@ -18860,6 +18866,7 @@
 *://uzaymanga.com/*
 *://uzem.ifam.com.tr/*
 *://uzlet-kulon.cam/*
+*://uzmancoin.com/*
 *://uzunkopruhurgazete.com/*
 *://vacha-nnov.ru/*
 *://vakfet.com/*
@@ -19769,6 +19776,8 @@
 *://www.bisikletforum.com/*
 *://www.bistro22ri.com/*
 *://www.bitalih.com/*
+*://www.bitci.com.tr/*
+*://www.bitci.com/*
 *://www.bitcoin.com/*
 *://www.bitcoincasinos.com/*
 *://www.bitcoininsider.org/*
@@ -19902,6 +19911,7 @@
 *://www.buzzbingo.com/*
 *://www.buzzcasino.com/*
 *://www.bwin.com/*
+*://www.bybit.com/*
 *://www.byviagra.net/*
 *://www.caddebet596.com/*
 *://www.caddebet597.com/*
@@ -20792,6 +20802,7 @@
 *://www.gercekurfa.com/*
 *://www.geredetso.org.tr/*
 *://www.gerzepostasi.com/*
+*://www.getmidas.com/*
 *://www.getwin.com/*
 *://www.geyikli.org/*
 *://www.geylanivakfi.org.tr/*
@@ -21191,6 +21202,8 @@
 *://www.icmbio.gov.br/*
 *://www.icnrc2020.com/*
 *://www.icrera.org/*
+*://www.icrypex.com.tr/*
+*://www.icrypex.com/*
 *://www.ics.com.ph/*
 *://www.iddaaci.org/*
 *://www.iddaatahmin11.com/*
@@ -22235,6 +22248,7 @@
 *://www.orkester-loce.si/*
 *://www.ormanamama.com/*
 *://www.ortadoguhaber.com/*
+*://www.ortakapp.com/*
 *://www.ortimistanbul.com/*
 *://www.ortodontialsancak.com/*
 *://www.ortopedska-amb.si/*
@@ -23163,6 +23177,8 @@
 *://www.triaba.com/*
 *://www.tribalfootball.com/*
 *://www.tricksfly.org/*
+*://www.trive.com.tr/*
+*://www.triveportfoy.com.tr/*
 *://www.trkudus.org/*
 *://www.trok.si/*
 *://www.trombarija.com/*
