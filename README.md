@@ -36,7 +36,7 @@ Bu engelleme listesi aşağıdaki içerik türlerini hedefler:
 3. Paste the URL below and save:
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/uBlacklist.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/heads/main/uBlacklist.txt
 ```
 
 ---
@@ -55,17 +55,17 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/
 3. Save changes
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/ytblock-channels.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/heads/main/ytblock-channels.txt
 ```
 
 ---
 
-### 🧱 **3. Troll Blocker (For Ekşi Sözlük)**
+### 🧱 **3. aktroll blocker (For Ekşi Sözlük)**
 
 Block known troll accounts from Ekşi Sözlük using the following list:
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/main/eksisozluk-troll-blocker-list.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/heads/main/eksisozluk-troll-blocker-list.txt
 ```
 
 ## 🛡️ **Disclaimer**
