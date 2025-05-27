@@ -1006,6 +1006,7 @@ ejderhasizfantazya
 ekmek pasta
 ekrem imamov
 eksi bir dost
+eksi daglarinin aslani
 eksi sozluk kullanici sozlesmesimsi
 eksi sozluk muhaliflerine muhalif
 eksi sozluk yazarlarinin amq
@@ -3511,4 +3512,3 @@ zurnik
 zweiginsolkolu
 ​architec
 ​​099
-eksi daglarinin aslani
