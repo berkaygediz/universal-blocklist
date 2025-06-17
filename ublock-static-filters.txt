@@ -3,36 +3,14 @@ www.google.com##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
 www.google.com##.vt6azd.Ww4FFb.wHYlTd.AuVD
 www.google.com##.BA0zte
 
-! 12 Haz 2025 https://www.donanimhaber.com
-www.donanimhaber.com##.android.open-with-app-square
-www.donanimhaber.com##.manset-yatay
-www.donanimhaber.com##.discount-button
-www.donanimhaber.com###ctl21_pnlSilentVideo
-www.donanimhaber.com###pnlBody > div:nth-of-type(7)
-www.donanimhaber.com##.suggested-topics
-www.donanimhaber.com##.open-with-app-popup
-www.donanimhaber.com##.mobil-forum-tanitim
-www.donanimhaber.com##section.liste:nth-of-type(10)
-
 ! 12 Haz 2025 https://forum.donanimhaber.com
 forum.donanimhaber.com##.checking-new-message
-forum.donanimhaber.com##.tag-list-content.reklamiatla.minik.arareklam
+forum.donanimhaber.com##.tag-list-content.reklamiatlaminik.arareklam
 forum.donanimhaber.com##.mobil-forum-tanitim
 forum.donanimhaber.com##.open-with-app
 forum.donanimhaber.com##.button.open-with-app-button
 forum.donanimhaber.com##li.displayOrder1_ > a
 forum.donanimhaber.com##li.displayOrder1_
-
-! 12 Haz 2025 https://www.donanimhaber.com
-www.donanimhaber.com##.klasik-manset3
-www.donanimhaber.com##div.oge:nth-of-type(6)
-www.donanimhaber.com##.sponsorlar
-www.donanimhaber.com##.mobile-app
-www.donanimhaber.com##.phone-advice.sistem-tavsiyeleri.boya-6.kolon-kutu
-www.donanimhaber.com###recommendedSystem
-www.donanimhaber.com##.notebook-advice.sistem-tavsiyeleri.boya-7.kolon-kutu
-www.donanimhaber.com##.medya-buyuk-kapsam
-www.donanimhaber.com##.lnk-bkz
 
 ! 12 Haz 2025 https://www.log.com.tr
 www.log.com.tr##.android
@@ -50,9 +28,6 @@ yandex.com.tr##.trends_block_main.trends_state_maximized.content__item.trends_2-
 yandex.com.tr###DistributionSmartbannerSystemAndroid__gjtq40izuh10lsobbykqt-PTb8Kg8
 yandex.com.tr##.RelatedBottom.rEa15JKtu8XyabrWo
 
-! 12 Haz 2025 https://www.donanimhaber.com
-www.donanimhaber.com##section.liste:nth-of-type(6)
-
 ! 12 Haz 2025 https://kick.com
 kick.com##.font-medium.text-sm.flex-col.shrink-0.flex.relative.bg-surface-lower
 kick.com##.lg\:gap-y-5.gap-y-3.flex-col.flex
@@ -61,28 +36,23 @@ kick.com##.lg\:gap-y-5.gap-y-3.flex-col.flex
 m.twitch.tv##.kEIAKL.ScCoreButton-sc-ocjdkq-0
 
 ! 12 Haz 2025 https://ouo.press
-ouo.press###captcha
-
-! 13 Haz 2025 https://kick.com
-kick.com##.gap-2.items-center.w-full.flex
+ouo.press###captch
 
 ! 13 Haz 2025 https://www.donanimhaber.com
-www.donanimhaber.com##.abonelik
-www.donanimhaber.com##.boya-3.kolon-kutu
-www.donanimhaber.com##div.oge:nth-of-type(35)
-www.donanimhaber.com##div.oge:nth-of-type(40)
-www.donanimhaber.com##.boya-1.kolon-kutu
+www.donanimhaber.com###ctl21_CategoryDescription_relatedSearch
+www.donanimhaber.com##.open-with-app-popup
+www.donanimhaber.com###dh-application-duyuru-context
+www.donanimhaber.com##.android.open-with-app-square
+www.donanimhaber.com##.discount-button
+www.donanimhaber.com###silentVideosContaine
+www.donanimhaber.com##.liste.news-tabs-liste
+www.donanimhaber.com##.cookie-kutu
+www.donanimhaber.com###ctl21_pnlSilentVideo
+www.donanimhaber.com##.suggested-topics
+www.donanimhaber.com##section.liste:nth-of-type(10)
+www.donanimhaber.com##section.liste:nth-of-type(6)
+www.donanimhaber.com###pnlBody > div:nth-of-type(7)
+www.donanimhaber.com###div-ul > .tag-list
 
-! 13 Haz 2025 https://forum.donanimhaber.com
-forum.donanimhaber.com##.notification-tooltip
-
-! 13 Haz 2025 https://www.google.com
-www.google.com##.Pqkn2e.ClPXac
-www.google.com##.ULSxyf
-
-! 13 Haz 2025 https://www.donanimhaber.com
-www.donanimhaber.com##.owl-drag.owl-loaded.owl-theme.owl-carousel.instagram-feed-carousel
-www.donanimhaber.com##.uygulamayi-indir
-
-! 13 Haz 2025 https://eksisozluk.com
-eksisozluk.com###aside
+! 16 Haz 2025 https://kick.com
+kick.com##.lg\:flex-col.gap-2.flex
