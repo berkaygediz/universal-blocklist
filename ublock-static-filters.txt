@@ -56,3 +56,22 @@ www.donanimhaber.com###div-ul > .tag-list
 
 ! 16 Haz 2025 https://kick.com
 kick.com##.lg\:flex-col.gap-2.flex
+
+! 17 Haz 2025 https://kick.com
+kick.com##.gap-2.items-center.w-full.flex
+
+! 18 Haz 2025 https://www.donanimhaber.com
+www.donanimhaber.com##.acik.kripto-paralar
+www.donanimhaber.com##.kripto-paralar
+www.donanimhaber.com##.sistem-tavsiyeleri.boya-4.kolon-kutu
+www.donanimhaber.com##.sponsorlar
+www.donanimhaber.com##.mobile-app
+www.donanimhaber.com##.phone-advice.sistem-tavsiyeleri.boya-6.kolon-kutu
+www.donanimhaber.com##.notebook-advice.sistem-tavsiyeleri.boya-7.kolon-kutu
+
+! 18 Haz 2025 https://eksisozluk.com
+eksisozluk.com##div.fb_iframe_widget.fb-page
+eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
+
+! 18 Haz 2025 https://www.twitch.tv
+www.twitch.tv##.front-page-carousel.jHEhSH.Layout-sc-1xcs6mc-0
