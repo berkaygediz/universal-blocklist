@@ -1,7 +1,7 @@
-# 🌐 **Universal Blocklist - Turkish / Russian / Chinese**
+# 🌐 **berkaygediz's Universal Blocklist**
 
-**The most comprehensive and realistic blocklist for uBlacklist, YTBlock, and Aktroll Blocker.**
-Effectively filters biased, manipulative, low-quality, or malicious content in Turkish, Russian, and Chinese from search results, YouTube, and Ekşi Sözlük.
+**The most comprehensive and realistic blocklist for uBlacklist, YTBlock, uKickBlock, uRedditBlock, Unwanted Twitch and Aktroll Blocker.**
+Effectively filters biased, manipulative, low-quality, or malicious content in all languages from search results, YouTube, Kick, Twitch, Reddit and Ekşi Sözlük.
 
 ## 📂 **Targeted Content Categories / Hedeflenen İçerik Türleri**
 
@@ -36,7 +36,7 @@ Bu engelleme listesi aşağıdaki içerik türlerini hedefler:
 3. Paste the URL below and save:
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/heads/main/uBlacklist.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/uBlacklist.txt
 ```
 
 ---
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/
 3. Save changes
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/heads/main/ytblock-channels.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ytblock-channels.txt
 ```
 
 ---
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/
 Block known troll accounts from Ekşi Sözlük using the following list:
 
 ```bash
-https://raw.githubusercontent.com/berkaygediz/universal-blocklist-tr-ru-cn/refs/heads/main/eksisozluk-troll-blocker-list.txt
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/eksisozluk-troll-blocker-list.txt
 ```
 
 ## 🛡️ **Disclaimer**
