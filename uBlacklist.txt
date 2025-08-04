@@ -16396,6 +16396,7 @@
 *://bc-game.id/*
 *://bc-game.in/*
 *://bc.game/*
+*://bcgame-vc.com/*
 *://bcgame.com/*
 *://bcgamebd.net/*
 *://bcgdvx.com/*
@@ -27592,6 +27593,7 @@
 *://m.vbet.am/*
 *://m.vbet.ua/*
 *://m.venusbet752.com/*
+*://m.verabet736.com/*
 *://m.vevobahis1300.com/*
 *://m.victorybet.ro/*
 *://m.winxbet781.com/*
@@ -35209,6 +35211,7 @@
 *://tucson15.nytimes-institute.com/*
 *://tudpam.org/*
 *://tudsak.com/*
+*://tuesday.tehuacan.gob.mx/*
 *://tugva.org/*
 *://tuiosb.org.tr/*
 *://tulasipickles.com/*
@@ -35770,6 +35773,8 @@
 *://vedicwellnessuniversity.com/*
 *://veengineeringinc.com/*
 *://veg.hu/*
+*://vegabet.org/*
+*://vegabets.net/*
 *://veganboyfriend.com/*
 *://vegas-casino-free-slots1.apk.watch/*
 *://vegas-casino-slot-games.en.softonic.com/*
@@ -35805,9 +35810,12 @@
 *://ventsmagazine.co.uk/*
 *://venusbetegiris.net/*
 *://venusbetting.com/*
+*://vera.bet.br/*
 *://vera.gen.tr/*
+*://verabet1.app/*
 *://verabetbahis.com/*
 *://verabetgirisi.site/*
+*://verabetkayit.com/*
 *://verabetmobillogin.com/*
 *://veracruzgaychat.chatovod.com/*
 *://veradernegi.org/*
