@@ -75,3 +75,23 @@ eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
 
 ! 18 Haz 2025 https://www.twitch.tv
 www.twitch.tv##.front-page-carousel.jHEhSH.Layout-sc-1xcs6mc-0
+
+! 29 Haz 2025 https://www.donanimhaber.com
+www.donanimhaber.com##.abonelik
+www.donanimhaber.com###trend-news-module
+www.donanimhaber.com##.sosyal-aglar
+www.donanimhaber.com##.copyright > [href]
+
+! 29 Haz 2025 https://forum.donanimhaber.com
+forum.donanimhaber.com###ad3734
+forum.donanimhaber.com###news-container
+forum.donanimhaber.com###ondabir
+forum.donanimhaber.com##.sf.gallery.forum > .ikisayfaarasi > .tag-list-content.reklamiatla.minik.arareklam > .tip1.DH-Sosyal
+forum.donanimhaber.com##div.ikisayfaarasi:nth-of-type(1) > div:nth-of-type(3)
+forum.donanimhaber.com##.tag-list-content.reklamiatla.minik.arareklam
+forum.donanimhaber.com##.notification-tooltip
+forum.donanimhaber.com##.my-20.page-between-module
+forum.donanimhaber.com##.v2.page-between-tag
+
+! 28 Ağu 2025 https://www.doviz.com
+www.doviz.com##.mt-16.mb-16.clear.empower-ad
