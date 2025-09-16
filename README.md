@@ -1,73 +1,124 @@
-# 🌐 **berkaygediz's Universal Blocklist**
+# 🌐 berkaygediz's Universal Blocklist
 
-**The most comprehensive and realistic blocklist for uBlacklist, YTBlock, uKickBlock, uRedditBlock, Unwanted Twitch and Aktroll Blocker.**
-Effectively filters biased, manipulative, low-quality, or malicious content in all languages from search results, YouTube, Kick, Twitch, Reddit and Ekşi Sözlük.
+The most comprehensive and realistic universal blocklist.  
+Works with **uBlacklist, YTBlock, uKick, filteReddit, Unwanted Twitch, uBlock Origin**, and **aktroll blocker**.  
+Blocks biased, manipulative, low-quality, or malicious content across search results, YouTube, Kick, Twitch, Reddit, and Ekşi Sözlük.
 
-## 📂 **Targeted Content Categories / Hedeflenen İçerik Türleri**
+## ⚙️ Installation
 
-This blocklist targets the following types of content:
-Bu engelleme listesi aşağıdaki içerik türlerini hedefler:
+### 🔍 1. uBlacklist (for search engines)
+Install the extension:  
+- [Chrome Web Store](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)  
+- [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ublacklist/)  
 
-* 📰 **Biased and misleading news sources** – *Taraflı ve yanıltıcı haber kaynakları*
-* 🏛️ **Politically tailored or agenda-driven content** – *Siyasi amaçlarla hazırlanmış, manipülatif içerikler*
-* ⚠️ **Potential or hidden terrorism-related sites** – *Potansiyel veya gizli terör bağlantılı siteler*
-* 🔁 **Mass-repeated mainstream media content** – *Tekrarlanan ve merkez medya içerikleri*
-* 🎯 **SEO manipulation and fake prominence tactics** – *SEO manipülasyonu ve sahte tanınırlık oluşturma yöntemleri*
-* 📉 **Irrational or ungrounded economic commentary** – *Gerçeklikten uzak ekonomik yorumlar*
-* ⏳ **Clickbait and time-wasting content** – *Tıklama tuzağı (clickbait) ve zaman kaybı içerikler*
-* 🤖 **Algorithm-gaming and AI-generated spam (esp. on YouTube)** – *Algoritma kandırma ve yapay zeka içerik istismarı (özellikle YouTube’da)*
-* 💣 **Malicious and virus-infected websites** – *Zararlı ve virüs bulaşmış siteler*
-* 🎰 **Gambling and betting sites** – *Kumar ve bahis siteleri*
-* 🧵 **Troll accounts and terrorism affiliates spreading misinformation on Ekşi Sözlük** – Ekşi Sözlük'te dezenformasyon yayan trol hesaplar ve terörizmle bağlantılı kişiler
+**Contains:** Disinformation + Propaganda + Fake News + SEO Manipulation + Clickbait + Gambling + Malware + Spam + Terrorism
 
-## ⚙️ **Installation Guide**
+Add the blocklist:  
+1. Open `uBlacklist > Options`  
+2. Select `Import > Import from a URL`  
+3. Paste the URL below and save:  
 
-### 🔍 **1. uBlacklist (For Search Results)**
-
-**Install the extension:**
-
-* [Chrome Web Store](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
-* [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
-
-**How to apply the list:**
-
-1. Go to `uBlacklist > Options`
-2. Click `Import > Import from a URL`
-3. Paste the URL below and save:
-
-```bash
+```
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/uBlacklist.txt
 ```
 
 ---
 
-### 📺 **2. YTBlock (For YouTube Channel Blocking)**
+### 📺 2. YTBlock (for YouTube channels, comments, and videos)
+Install the extension:  
+- [Chrome Web Store](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea)  
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/yt-block/)  
 
-**Install the extension:**
+Contains:  
+- **Channels:** Clickbait + Low Quality + Disinformation + Propaganda + Fake News + Magazine + Gambling + Spam + Terrorism  
+- **Comments:** Bot Comments  
 
-* [Chrome Web Store](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea)
-* [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/yt-block/)
-
-**How to apply the list:**
-
-1. Open `YTBlock > Options > Channels`
-2. Paste the following URL into the “Block any content from these channels” section
-3. Save changes
-
-```bash
+Add the blocklists (**manual import required**):  
+- Channels:  
+```
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ytblock-channels.txt
+```
+- Comments:  
+```
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ytblock-comments.txt
 ```
 
 ---
 
-### 🧱 **3. aktroll blocker (For Ekşi Sözlük)**
+### 🎮 3. uKick (for Kick channels)
+Install the extension:  
+- [Chrome Web Store](https://chromewebstore.google.com/detail/ukick-%E2%80%94-block-everything/ifndlnhdiommaehhmeomdggeknpikjek)  
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ukick-%E2%80%94-block-everything-/dpkahlbhnkllhalhggfogkppbnlajfle)  
+- [Firefox Add-ons](https://addons.mozilla.org/tr/firefox/addon/ukick/)  
+- [GreasyFork (userscript)](https://greasyfork.org/en/scripts/548672-ukick-block-everything-stream-tweaks)  
 
-Block known troll accounts from Ekşi Sözlük using the following list:
+Contains:  
+- **Streamers/Chatters:** Bot Broadcasters/Viewers + Low Sensitivity to Important Topics + Clip Farming + Known Offenders (Bitçi List) + Terrorism + Gambling/Casino/Slots + Fake Game Server Promotions + Paid Views/Engagement Sellers + Doxing Offenders  
+- **Categories:** Fake Game Server Promotions  
 
-```bash
+Add the blocklist (**manual import required**):  
+- Channels:  
+```
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_channels.json
+```
+- Categories:  
+```
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_categories.json
+```
+
+---
+
+### 🧵 4. aktroll blocker (for Ekşi Sözlük)
+Install the extension:  
+- [Chrome Web Store](https://chromewebstore.google.com/detail/aktroll-blocker/nkplcgipdoceiofhcjcpfnkkpljnnonm)  
+
+**Contains:** Troll Accounts + Agenda-Driven Accounts + Terrorism  
+
+Open extension options > Lists > Add > Update Lists  
+
+Add the blocklist:  
+```
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/eksisozluk-troll-blocker-list.txt
 ```
 
-## 🛡️ **Disclaimer**
+---
 
-This blocklist is a non-commercial, community-driven project focused on enhancing digital quality of life by minimizing exposure to manipulative or harmful content. The list is continuously updated and maintained with neutrality and objectivity.
+### 🎥 5. Unwanted Twitch (for Twitch channels)
+Install the extension:  
+- [Chrome Web Store](https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld)  
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/unwanted-twitch/)  
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/unwanted-twitch/jkhpefiopamdlihbichhnhmpfgomefmh)  
+
+**Contains:** Low Quality Streamers  
+
+Add the blocklist (**manual import required**):  
+```
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/UnwantedTwitch_Blacklist.json
+```
+
+---
+
+### 🧩 6. filteReddit (for Reddit)
+👉 Coming soon. Placeholder for extension and blocklist links.
+
+---
+
+### 🛡️ 7. uBlock Origin (advanced ad & content blocking)
+Install the extension:  
+- [Firefox Add-ons](https://addons.mozilla.org/addon/ublock-origin/)  
+- [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)  
+- [Opera Add-ons](https://addons.opera.com/extensions/details/ublock/)  
+- [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
+- [Thunderbird Add-ons](https://addons.thunderbird.net/thunderbird/addon/ublock-origin/)  
+- [GitHub Releases](https://github.com/gorhill/uBlock/releases)  
+
+**Contains:** Unnecessary Elements
+
+Add the blocklist:  
+```
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ublock-static-filters.txt
+```
+
+## 📜 License
+This project is released under the **CC0-1.0** license.  
+It is community-driven, non-commercial, and focused on improving digital quality of life by reducing exposure to manipulative or harmful content.
