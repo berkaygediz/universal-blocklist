@@ -1,7 +1,7 @@
 # 🌐 berkaygediz's Universal Blocklist
 
 The most comprehensive and realistic universal blocklist.  
-Works with **uBlacklist, YTBlock, uKick, filteReddit, Unwanted Twitch, uBlock Origin**, and **aktroll blocker**.  
+Works with **uBlacklist, YTBlock, uKick, uDittor, Unwanted Twitch, uBlock Origin**, and **uSozluk**.  
 Blocks biased, manipulative, low-quality, or malicious content across search results, YouTube, Kick, Twitch, Reddit, and Ekşi Sözlük.
 
 ## ⚙️ Installation
@@ -53,8 +53,9 @@ Install the extension:
 - [GreasyFork (userscript)](https://greasyfork.org/en/scripts/548672-ukick-block-everything-stream-tweaks)  
 
 Contains:  
-- **Streamers/Chatters:** Bot Broadcasters/Viewers + Low Sensitivity to Important Topics + Clip Farming + Known Offenders (Bitçi List) + Terrorism + Gambling/Casino/Slots + Fake Game Server Promotions + Paid Views/Engagement Sellers + Doxing Offenders  
-- **Categories:** Fake Game Server Promotions  
+- **Streamers/Chatters:** Bot Broadcasters/Viewers + Clip Farming + Gambling/Casino/Slots + Fake Game Server Promotions + Paid Views/Engagement Sellers + Doxing Offenders  
+- **Categories:** Fake Game Server Promotions + FPS Shooter + Addiction Trap
+- **Tags:** MMORPG + Gambling/Casino/Slots + FPS Shooter + Addiction Trap
 
 Add the blocklist (**manual import required**):  
 - Channels:  
@@ -65,25 +66,28 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/mai
 ```
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_categories.json
 ```
-
+- Tags:  
+```
+https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_tags.json
+```
 ---
 
-### 🧵 4. aktroll blocker (for Ekşi Sözlük)
+### 🧵 4. uSozluk for Ekşi Sözlük
 Install the extension:  
-- [Chrome Web Store](https://chromewebstore.google.com/detail/aktroll-blocker/nkplcgipdoceiofhcjcpfnkkpljnnonm)  
+- Coming soon.
 
 **Contains:** Troll Accounts + Agenda-Driven Accounts + Terrorism  
 
-Open extension options > Lists > Add > Update Lists  
+Open extension options > Users > Import
 
-Add the blocklist:  
+Download the blocklist:  
 ```
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/eksisozluk-troll-blocker-list.txt
 ```
 
 ---
 
-### 🎥 5. Unwanted Twitch (for Twitch channels)
+### 🎥 5. Unwanted Twitch for Twitch
 Install the extension:  
 - [Chrome Web Store](https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld)  
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/unwanted-twitch/)  
@@ -98,8 +102,8 @@ https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/mai
 
 ---
 
-### 🧩 6. filteReddit (for Reddit)
-👉 Coming soon. Placeholder for extension and blocklist links.
+### 🧩 6. uDittor for Reddit
+- Coming soon. Users & subreddits.
 
 ---
 
