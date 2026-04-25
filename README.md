@@ -1,10 +1,10 @@
 # berkaygediz's Universal Blocklist
 
 > **DISCLAIMER:**
-> This is a personal blocklist. Entries are added as a result of my own personal reviews and investigations. Since this is my personal repository, I have no obligation to justify my choices or account to anyone. I am not aligned with any political, ideological, or commercial views. If you genuinely believe you have been added by mistake, you may open an issue.
+> This is a personal blocklist. Entries are added based purely on my subjective discretion. As the sole maintainer of this repository, I am under no obligation to justify my choices, disclose criteria, or answer to anyone. This list is entirely independent of any political, ideological, or commercial agenda. If you suspect a genuine false positive, you may open an issue.
 
 > **UYARI:**
-> Bu kişisel bir engelleme listesidir. Listeye eklenen öğeler tamamen kendi kişisel incelemelerim ve araştırmalarım sonucunda belirlenmiştir. Bu benim kişisel depom olduğundan, seçimlerimi gerekçelendirme veya kimseye hesap verme zorunluluğum yoktur. Hiçbir siyasi, ideolojik veya ticari görüşe taraf değilim. Gerçekten yanlışlıkla listeye eklendiğinizi düşünüyorsanız bir issue açabilirsiniz.
+> Bu kişisel bir engelleme listesidir. Öğeler yalnızca kendi sübjektif takdirimle eklenir. Bu deponun tek bakımcısı olduğundan, seçimlerimi gerekçelendirmek, kriter açıklamak veya kimseye hesap sormak zorunda değilim. Bu liste siyasi, ideolojik veya ticari hiçbir gündemden tamamen bağımsızdır. Gerçek bir yanlış pozitif (hatalı ekleme) durumundan şüpheleniyorsanız bir issue açabilirsiniz.
 
 Blocks biased, manipulative, low-quality, or malicious content across search results, YouTube, Kick, Twitch, Reddit, and Ekşi Sözlük.
 
