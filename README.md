@@ -104,7 +104,7 @@ Install the extension:
 - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/mmfomenpccnkidpnlfcdfigbcjifejjl)  
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/usozluk/)  
 
-**Contains:** Terrorism Sympathizers + P\*K Apologists + Neo-C\*maat Members + F\*to Defenders + N\*rcu Revisionists + Fake Revolutionary/Intellectual Personas + Historical Revisionists + Anti-Turkish Racists + Military Detractors + Separatists + Subtle Manipulators (Downplaying Terror) + Coordinated Troll Farms + Agency Bots + Betting/Casino Promoters + Fake Trust Entry Writers + Crypto Copy-Trading Shills + Airdrop Spammers + Referral Link Spammers + Financial Scammers + Missionary Sympathizers + Social Manipulators
+**Contains:** Terrorism Sympathizers + P\*K Apologists + Neo-C\*maat Members + F\*to Defenders + N\*rcu Revisionists + Fake Revolutionary/Intellectual Personas + Historical Revisionists + Anti-Turkish Racists + Subtle Manipulators (Downplaying Terror) + Coordinated Troll Farms + Agency Bots + Betting/Casino Promoters + Fake Trust Entry Writers + Crypto Copy-Trading Shills + Airdrop Spammers + Referral Link Spammers + Financial Scammers + Missionary Sympathizers + Social Manipulators
 
 Import the blocklist or add subscription:  
 
