@@ -1,203 +1,119 @@
-# berkaygediz's Universal Blocklist
+# Berkay Gediz's Universal Blocklist
 
-> **DISCLAIMER:**
-> This is a personal blocklist. Entries are added based purely on my subjective discretion. As the sole maintainer of this repository, I am under no obligation to justify my choices, disclose criteria, or answer to anyone. This list is entirely independent of any political, ideological, or commercial agenda. If you suspect a genuine false positive, you may open an issue.
+Personal universal blocklist for search results, YouTube, Kick, Twitch, Reddit, and Ekşi Sözlük.
 
-> **UYARI:**
-> Bu kişisel bir engelleme listesidir. Öğeler yalnızca kendi sübjektif takdirimle eklenir. Bu deponun tek bakımcısı olduğundan, seçimlerimi gerekçelendirmek, kriter açıklamak veya kimseye hesap sormak zorunda değilim. Bu liste siyasi, ideolojik veya ticari hiçbir gündemden tamamen bağımsızdır. Gerçek bir yanlış pozitif (hatalı ekleme) durumundan şüpheleniyorsanız bir issue açabilirsiniz.
+## uBlacklist
 
-Blocks biased, manipulative, low-quality, or malicious content across search results, YouTube, Kick, Twitch, Reddit, and Ekşi Sözlük.
-
-## Installation
-
-### 1. uBlacklist for search engines
-
-Install the extension:  
-
-- [Chrome Web Store](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)  
-- [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ublacklist/)  
+**Install:** [Chrome](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) · [Firefox](https://addons.mozilla.org/firefox/addon/ublacklist/)
 
 **Contains:** Disinformation + Propaganda + Fake News + SEO Manipulation + Clickbait + Gambling + Malware + Spam + Terrorism
 
-Add the blocklist:  
-
-1. Open `uBlacklist > Options`  
-2. Select `Import > Import from a URL`  
-3. Paste the URL below and save:  
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/uBlacklist.txt
 ```
 
----
+## YTBlock for YouTube
 
-### 2. YTBlock for YouTube
+**Install:** [Chrome](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/yt-block/)
 
-Install the extension:  
+**Channels** (Clickbait + Low Quality + Disinformation + Propaganda + Fake News + Magazine + Gambling + Spam + Terrorism):  
 
-- [Chrome Web Store](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea)  
-- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/yt-block/)  
-
-Contains:  
-
-- **Channels:** Clickbait + Low Quality + Disinformation + Propaganda + Fake News + Magazine + Gambling + Spam + Terrorism  
-- **Comments:** Bot Comments  
-
-Add the blocklists (**manual import required**):  
-
-- Channels:  
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ytblock_blocked_channels.txt
 ```
 
-- Comments:  
+**Comments** (Bot Comments):  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ytblock_blocked_comments.txt
 ```
 
----
+## uKick for Kick
 
-### 3. uKick for Kick
+**Install:** [Chrome](https://chromewebstore.google.com/detail/ukick-everything-for-kick/ifndlnhdiommaehhmeomdggeknpikjek) · [Edge](https://microsoftedge.microsoft.com/addons/detail/ukick-everything-for-ki/dpkahlbhnkllhalhggfogkppbnlajfle) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ukick/)
 
-Install the extension:  
+**Channels** (Bot Broadcasters/Viewers + Clip Farming + Gambling/Casino/Slots + Fake Game Server Promotions + Paid Views/Engagement Sellers + Doxing Offenders):  
 
-- [Chrome Web Store](https://chromewebstore.google.com/detail/ukick-%E2%80%94-block-everything/ifndlnhdiommaehhmeomdggeknpikjek)  
-- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ukick-%E2%80%94-block-everything-/dpkahlbhnkllhalhggfogkppbnlajfle)  
-- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ukick/)  
-- [GreasyFork (userscript)](https://greasyfork.org/en/scripts/548672-ukick-block-everything-stream-tweaks)  
-
-Contains:  
-
-- **Streamers/Chatters:** Bot Broadcasters/Viewers + Clip Farming + Gambling/Casino/Slots + Fake Game Server Promotions + Paid Views/Engagement Sellers + Doxing Offenders  
-- **Categories:** Fake Game Server Promotions + FPS Shooter + Addiction Trap
-- **Tags:** MMORPG + Gambling/Casino/Slots + FPS Shooter + Addiction Trap
-
-Import the blocklist or add subscription:  
-
-- Channels:  
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_channels.json
 ```
 
-- Categories:  
+**Categories** (Fake Game Server Promotions + FPS Shooter + Addiction Trap):  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_categories.json
 ```
 
-- Tags:  
+**Tags** (MMORPG + Gambling/Casino/Slots + FPS Shooter + Addiction Trap):  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/kick_blocked_tags.json
 ```
 
----
+## uSozluk for Ekşi Sözlük
 
-### 4. uSozluk for Ekşi Sözlük
+**Install:** [Chrome](https://chromewebstore.google.com/detail/usozluk-ek%C5%9Fi-s%C3%B6zl%C3%BCk-i%C3%A7in/igblepkjbdkflahkbjebobenplojogfm) · [Edge](https://microsoftedge.microsoft.com/addons/detail/mmfomenpccnkidpnlfcdfigbcjifejjl) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/usozluk/)
 
-Install the extension:  
+**Users** (Terrorism Sympathizers + P\*K Apologists + Neo-C\*maat Members + F\*to Defenders + N\*rcu Revisionists + Fake Revolutionary/Intellectual Personas + Historical Revisionists + Anti-Turkish Racists + Subtle Manipulators (Downplaying Terror) + Coordinated Troll Farms + Agency Bots + Betting/Casino Promoters + Fake Trust Entry Writers + Crypto Copy-Trading Shills + Airdrop Spammers + Referral Link Spammers + Financial Scammers + Missionary Sympathizers + Social Manipulators):
 
-- [Chrome Web Store](https://chromewebstore.google.com/detail/usozluk-ek%C5%9Fi-s%C3%B6zl%C3%BCk-i%C3%A7in/igblepkjbdkflahkbjebobenplojogfm)  
-- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/mmfomenpccnkidpnlfcdfigbcjifejjl)  
-- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/usozluk/)  
-
-**Contains:** Terrorism Sympathizers + P\*K Apologists + Neo-C\*maat Members + F\*to Defenders + N\*rcu Revisionists + Fake Revolutionary/Intellectual Personas + Historical Revisionists + Anti-Turkish Racists + Subtle Manipulators (Downplaying Terror) + Coordinated Troll Farms + Agency Bots + Betting/Casino Promoters + Fake Trust Entry Writers + Crypto Copy-Trading Shills + Airdrop Spammers + Referral Link Spammers + Financial Scammers + Missionary Sympathizers + Social Manipulators
-
-Import the blocklist or add subscription:  
-
-- Users:
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/eksisozluk_blocked_users.json 
 ```
 
-- Topics:  
+**Topics**:  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/eksisozluk_blocked_topics.json 
 ```
 
-- Entries:  
+**Entries**:  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/eksisozluk_blocked_entries.json 
 ```
 
----
+## uDittor for Reddit
 
-### 6. uDittor for Reddit
+**Install:** [Chrome](https://chromewebstore.google.com/detail/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/)
 
-Install the extension:  
+**Users**:  
 
-- [Chrome Web Store](https://chromewebstore.google.com/detail/)  
-- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/)  
-- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/)  
-
-**Contains:** None
-
-Import the blocklist or add subscription:  
-
-- Users:  
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/reddit_blocked_users.json
 ```
 
-- Subreddits:  
+**Subreddits**:  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/reddit_blocked_subreddits.json
 ```
 
-- Keywords:  
+**Keywords**:  
 
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/reddit_blocked_keywords.json
 ```
 
----
+## Unwanted Twitch
 
-### 5. Unwanted Twitch for Twitch
-
-Install the extension:  
-
-- [Chrome Web Store](https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld)  
-- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/unwanted-twitch/)  
-- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/unwanted-twitch/jkhpefiopamdlihbichhnhmpfgomefmh)  
+**Install:** [Chrome](https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/unwanted-twitch/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/unwanted-twitch/jkhpefiopamdlihbichhnhmpfgomefmh)
 
 **Contains:** Low Quality Streamers  
 
-Add the blocklist (**manual import required**):  
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/UnwantedTwitch_Blacklist.json
 ```
 
----
+## uBlock Origin
 
-### 7. uBlock Origin (advanced ad & content blocking)
-
-Install the extension:  
-
-- [Firefox Add-ons](https://addons.mozilla.org/addon/ublock-origin/)  
-- [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)  
-- [Opera Add-ons](https://addons.opera.com/extensions/details/ublock/)  
-- [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
-- [Thunderbird Add-ons](https://addons.thunderbird.net/thunderbird/addon/ublock-origin/)  
-- [GitHub Releases](https://github.com/gorhill/uBlock/releases)  
+**Install:** [Firefox](https://addons.mozilla.org/addon/ublock-origin/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) · [Opera](https://addons.opera.com/extensions/details/ublock/) · [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) · [Thunderbird](https://addons.thunderbird.net/thunderbird/addon/ublock-origin/) · [GitHub Releases](https://github.com/gorhill/uBlock/releases)
 
 **Contains:** Unnecessary Elements
 
-Add the blocklist:  
-
-```
+```txt
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ublock-static-filters.txt
 ```
 
 ## License
 
 This project is released under the **CC0-1.0** license.  
-It is community-driven, non-commercial, and focused on improving digital quality of life by reducing exposure to manipulative or harmful content.
